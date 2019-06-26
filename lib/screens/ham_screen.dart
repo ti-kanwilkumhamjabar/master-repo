@@ -5,7 +5,7 @@ class HamScreen extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("FIDUSIA SCREEN"),
+        title: Text("HAM SCREEN"),
       ),
       body: Center(
         child: RaisedButton(

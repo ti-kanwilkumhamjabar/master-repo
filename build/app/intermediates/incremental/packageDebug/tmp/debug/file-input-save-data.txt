@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jun 26 11:48:52 ICT 2019
+#Wed Jun 26 14:10:32 ICT 2019
 17.baseType=DIRECTORY
 4.path=lib/armeabi-v7a/libflutter.so
 25.base=F\:\\ProjectKanwil\\master-repo\\build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
