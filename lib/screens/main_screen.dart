@@ -32,6 +32,7 @@ class _MainScreenState extends State<MainScreen> {
           ];
         },
         body: Container(
+          color: Colors.teal,
           margin: EdgeInsets.all(5.0),
           child: GridView.count(
             crossAxisCount: 3,
