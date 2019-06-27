@@ -17,7 +17,8 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  charts_flutter: ^0.4.0
+  english_words: ^3.1.5
+  flutter_lorem: ^1.1.0
   flutter:
     sdk: flutter
 
