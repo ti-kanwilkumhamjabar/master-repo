@@ -5,172 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6b8667-9d9d-4da1-8565-765dc2e80c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iconpop/admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/anggaran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/bantuan hukum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/barang sitaan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/bmn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/cDwi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/cWni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_aturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_definisi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_lmk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_masaberlaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_perbandingan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_perlindungan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_prosedur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_tentang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/c_terkait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/cipta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_apengajuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_aturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_definisi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_masaberlaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_perbandingan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_prosedur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_syarat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/d_tentang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/data_jabar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/data_nasional.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/data_perbandingan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/desain industri.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/divmin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/dwi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/f_definisi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/f_search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/fckk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/fcktp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/fidusia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/gs1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/gs1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/gs2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ham.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/header_admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/header_im.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/header_pas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/header_yankum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ico6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoANG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoBMN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoBa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoIM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoLO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoLi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoMIN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoPAS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoPH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoSDM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icoT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/iconS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/ikk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/iktp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/imigrasi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/izin tinggal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/kegunaan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/kendaraan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/klien bapas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/kumham.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/login1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/login2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/login3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/logout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_apengajuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_aturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_definisi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_kbm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_masaberlaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_perbandingan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_prosedur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_syarat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/m_tentang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/masa_berlaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/merek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_aturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_definisi1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_ini.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_kode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_syarat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/n_tusi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/narapidana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/notaris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/orang asing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_aturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_aturaninvensi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_definisi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_invensi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_masaberlaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_prosedur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_syarat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/p_tentang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pasfoto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/paspor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/paspor_header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/paten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pegawai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pegawai1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pemasyarakatan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/perundangundangan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/pfto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/rumdin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/sdm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/searchIco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/setting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/simpan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/syarat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/tahanan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/tanah.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/tentang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/trans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/trash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/visa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/wni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/yankum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/charts/pie_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/hak_paten_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_paten_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/ham_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/ham_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/izin_tinggal_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/klien_bapas_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/klien_bapas_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/login_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/merek_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/merek_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/narapidana_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/narapidana_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/notaris_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/notaris_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/paspor_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/paspor_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/perundang_undangan_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/perundang_undangan_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/pora_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/pora_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/tahanan_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/tahanan_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/visa_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/visa_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widget/container_icon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/container_icon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,10 +42,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/widget/container_icon.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/screens/main_screen.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            <state relative-caret-position="-158">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#376#1482#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/hak_paten_screen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -194,13 +88,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/widget/container_icon.dart">
+        <entry file="file://$PROJECT_DIR$/lib/screens/ham_screen.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="306">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/merek_screen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -214,22 +117,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>init</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/screens/hak_paten_screen.dart" />
-        <option value="$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart" />
-        <option value="$PROJECT_DIR$/lib/screens/main_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/narapidana.dart" />
         <option value="$PROJECT_DIR$/lib/screens/bantuan_hukum_dart.dart" />
         <option value="$PROJECT_DIR$/lib/screens/bantuan_hukum_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/barang_sitaan_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/desain_industri_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/fidusia_screen.dart" />
-        <option value="$PROJECT_DIR$/lib/screens/ham_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/izin_tinggal_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/klien_bapas_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/login_screen.dart" />
@@ -242,13 +146,19 @@
         <option value="$PROJECT_DIR$/lib/screens/narapidana_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/merek_screen.dart" />
         <option value="$PROJECT_DIR$/lib/widget/container_icon.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/main_screen.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/charts/pie_chart.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/ham_screen.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/hak_paten_screen.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -256,7 +166,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -274,6 +183,12 @@
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -286,6 +201,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,6 +310,35 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2080537" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3414264" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329429" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2080537" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -420,19 +365,12 @@
       <window_info anchor="right" id="Flutter Inspector" order="3" />
       <window_info anchor="right" id="Flutter Outline" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-28" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
@@ -445,40 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/bantuan_hukum_dart.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/main_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/hak_paten_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/ham_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/bantuan_hukum_dart.dart" />
     <entry file="file://$PROJECT_DIR$/lib/screens/fidusia_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -553,20 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/merek_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/bantuan_hukum_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -650,10 +541,83 @@
     <entry file="file://$PROJECT_DIR$/iconpop/admin.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/bantuan_hukum_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/widget/container_icon.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        <state relative-caret-position="1071">
+          <caret line="81" column="43" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/main_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#376#1482#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/charts/pie_chart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="259" column="37" selection-start-line="259" selection-start-column="37" selection-end-line="259" selection-end-column="37" />
+          <folding>
+            <element signature="e#20#47#0" expanded="true" />
+            <element signature="e#128#1484#0" />
+            <element signature="e#1567#5654#0" />
+            <element signature="e#5700#8183#0" />
+            <element signature="e#8222#9211#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/hak_paten_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/hak_cipta_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/merek_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/ham_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
