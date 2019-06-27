@@ -50,6 +50,7 @@ class _MainScreenState extends State<MainScreen> {
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
           return <Widget>[
             SliverAppBar(
+              backgroundColor: Colors.teal,
               expandedHeight: 200.0,
               floating: false,
               pinned: true,
@@ -57,7 +58,7 @@ class _MainScreenState extends State<MainScreen> {
                   centerTitle: true,
                   title: Text("siEmil",
                       style: TextStyle(
-                        color: Colors.deepOrange,
+                        color: Colors.white,
                         fontSize: 16.0,
                       )),
                   background: Image.asset('images/image1.jpeg',

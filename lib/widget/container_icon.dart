@@ -30,6 +30,7 @@ class ContainerIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.teal,
       body: GestureDetector(
         onTap: (){
           Navigator.push(context, MaterialPageRoute(builder: (_){
