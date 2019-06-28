@@ -3,7 +3,7 @@ import 'package:master_repo/screens/bantuan_hukum_screen.dart';
 import 'package:master_repo/screens/barang_sitaan_screen.dart';
 import 'package:master_repo/screens/desain_industri_screen.dart';
 import 'package:master_repo/screens/fidusia_screen.dart';
-import 'package:master_repo/screens/hak_paten_screen.dart';
+import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
 import 'package:master_repo/screens/hak_cipta_screen.dart';
 import 'package:master_repo/screens/ham_screen.dart';
 import 'package:master_repo/screens/izin_tinggal_screen.dart';
