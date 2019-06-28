@@ -1,5 +1,4 @@
 import 'package:master_repo/data/data_hak_paten.dart';
-import 'package:master_repo/screens/hak_paten/rating_bar.dart';
 import 'package:flutter/material.dart';
 
 class DetailHakPaten extends StatelessWidget {

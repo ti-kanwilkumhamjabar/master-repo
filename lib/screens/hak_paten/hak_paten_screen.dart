@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_hak_paten.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+
 
 class HakPatenScreen extends StatelessWidget {
   @override

@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/screens/bantuan_hukum_screen.dart';
 import 'package:master_repo/screens/barang_sitaan_screen.dart';
-import 'package:master_repo/screens/desain_industri_screen.dart';
-import 'package:master_repo/screens/fidusia_screen.dart';
+import 'package:master_repo/screens/desain_industri/desain_industri_screen.dart';
+import 'package:master_repo/screens/fidusia/fidusia_screen.dart';
 import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
-import 'package:master_repo/screens/hak_cipta_screen.dart';
+import 'package:master_repo/screens/hak_cipta/hak_cipta_screen.dart';
 import 'package:master_repo/screens/ham_screen.dart';
 import 'package:master_repo/screens/izin_tinggal_screen.dart';
 import 'package:master_repo/screens/klien_bapas_screen.dart';
 import 'package:master_repo/screens/login_screen.dart';
-import 'package:master_repo/screens/merek_screen.dart';
+import 'package:master_repo/screens/merek/merek_screen.dart';
 import 'package:master_repo/screens/narapidana_screen.dart';
 import 'package:master_repo/screens/notaris_screen.dart';
 import 'package:master_repo/screens/paspor_screen.dart';
@@ -92,7 +92,6 @@ class ContainerIcon extends StatelessWidget {
             else{
               return HakCiptaScreen();
             }
-
             //return HakPatenScreen();
           }));
         },
