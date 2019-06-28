@@ -16,7 +16,7 @@ import 'package:master_repo/screens/paspor_screen.dart';
 import 'package:master_repo/screens/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora_screen.dart';
 import 'package:master_repo/screens/tahanan_screen.dart';
-import 'package:master_repo/screens/visa_screen.dart';
+import 'package:master_repo/screens/visa/visa_screen.dart';
 
 class ContainerIcon extends StatelessWidget {
 

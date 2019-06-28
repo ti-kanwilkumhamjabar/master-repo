@@ -1,4 +1,4 @@
-#Fri Jun 28 20:01:29 ICT 2019
+#Fri Jun 28 23:08:32 ICT 2019
 base.0=F\:\\siEmil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
