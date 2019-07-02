@@ -60,4 +60,15 @@ final List<DataIzinTinggal> dataIzinTinggal = [
       '8. Penjamin tersebut merupakan perorangan yang berkewarganegaraan Indonesia. \n'
       '9. Penjamin tersebut harus diajukan pada Kantor Imigrasi yang wilayah kerjanya meliputi tempat tinggal Orang Asing dalam waktu paling lama 60 (enam puluh) hari terhitung sejak tanggal diterbitkannya akta perceraian. \n'
       '10. Jika Orang Asing tidak mengajukan Penjamin dalam jangka waktu yang ditentukan, maka Izin Tinggal Tetap dibatalkan. \n'),
+  DataIzinTinggal('Jumlah Pengajuan', 'iconpop/c_definisi.png',
+      '1. Dalam hal suami atau istri warga negara Indonesia meninggal dunia, Izin Tinggal terbatas atau Izin Tinggal Tetap Orang Asing yang diperoleh karena perkawinan campuran tetap berlaku. \n'
+          '2. Orang Asing sebagaimana dimaksud pada point 1 yang suami atau istrinya warga negara Indonesia meninggal dunia harus memiliki Penjamin berkewarganegaraan Indonesia. \n'
+          '3. Dalam hal ayah dan/atau ibu warga negara Indonesia meninggal dunia, Izin Tinggal terbatas atau Izin Tinggal Tetap anak berkewarganegaraan asing dari hasil perkawinan tetap berlaku. \n'
+          '4. Anak berkewarganegaraan asing  dari hasil perkawinan sebagaimana dimaksud yang ayah dan/atau ibu warga negara Indonesia meninggal dunia, harus memiliki Penjamin berkewarganegaraan Indonesia. \n'
+          '5. Untuk perkawinan campuran yang telah berusia 10 (sepuluh) tahun atau lebih, Izin Tinggal Tetap Orang Asing yang diperoleh karena perkawinan yang sah tetap berlaku walaupun perkawinannya telah berakhir karena perceraian dan/atau atas putusan pengadilan. \n'
+          '6. Pemegang Izin Tinggal Tetap tersebut harus memiliki Penjamin berkewarganegaraan Indonesia. \n'
+          '7. Untuk perkawinan campuran yang berusia kurang dari 10 (sepuluh) tahun, Izin Tinggal Tetap Orang Asing yang diperoleh karena perkawinan yang sah tetap berlaku walaupun perkawinannya telah berakhir karena perceraian dan/atau atas putusan pengadilan jika Orang Asing yang bersangkutan memiliki Penjamin. \n'
+          '8. Penjamin tersebut merupakan perorangan yang berkewarganegaraan Indonesia. \n'
+          '9. Penjamin tersebut harus diajukan pada Kantor Imigrasi yang wilayah kerjanya meliputi tempat tinggal Orang Asing dalam waktu paling lama 60 (enam puluh) hari terhitung sejak tanggal diterbitkannya akta perceraian. \n'
+          '10. Jika Orang Asing tidak mengajukan Penjamin dalam jangka waktu yang ditentukan, maka Izin Tinggal Tetap dibatalkan. \n')
 ];

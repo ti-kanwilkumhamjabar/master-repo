@@ -1,0 +1,53 @@
+import 'package:flutter/material.dart';
+import 'package:master_repo/data/data_izin_tinggal.dart';
+import 'package:master_repo/data/data_paspor.dart';
+import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/izin_tinggal/detail_izin_tinggal.dart';
+import 'package:master_repo/screens/paspor/detail_paspor.dart';
+
+class ContainerIconIzinTinggal extends StatelessWidget {
+
+  final String imageName;
+  final Function onPressed;
+
+  ContainerIconIzinTinggal({
+    @required this.imageName, this.onPressed
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.teal,
+      body: GestureDetector(
+        onTap: (){
+          Navigator.push(context, MaterialPageRoute(builder: (_){
+
+            if(this.imageName == "izin tinggal"){
+              return DetailIzinTinggal(data : dataIzinTinggal[0]);
+            }
+            else if(this.imageName == "c_prosedur"){
+              return DetailIzinTinggal(data : dataIzinTinggal[1]);
+            }
+            else if(this.imageName == "c_definisi"){
+              return DetailIzinTinggal(data : dataIzinTinggal[2]);
+            }
+            else{
+              return HamScreen();
+            }
+            //return HakPatenScreen();
+          }));
+        },
+        child : Container(
+          padding: EdgeInsets.all(3.0),
+          height: 100.0,
+          margin: EdgeInsets.all(2.0),
+          decoration: BoxDecoration(
+              image: DecorationImage(
+                  image: AssetImage('iconpop/$imageName.png'), fit: BoxFit.fitHeight),
+              color: Colors.teal
+          ),
+        ),
+      ),
+    );
+  }
+}

@@ -6,7 +6,7 @@ import 'package:master_repo/screens/fidusia/fidusia_screen.dart';
 import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
 import 'package:master_repo/screens/hak_cipta/hak_cipta_screen.dart';
 import 'package:master_repo/screens/ham_screen.dart';
-import 'package:master_repo/screens/izin_tinggal_screen.dart';
+import 'package:master_repo/screens/izin_tinggal/izin_tinggal_screen.dart';
 import 'package:master_repo/screens/klien_bapas_screen.dart';
 import 'package:master_repo/screens/login_screen.dart';
 import 'package:master_repo/screens/merek/merek_screen.dart';

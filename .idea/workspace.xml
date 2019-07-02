@@ -10,11 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6b8667-9d9d-4da1-8565-765dc2e80c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/data/data_paspor.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal/detail_izin_tinggal.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/paspor_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/izin_tinggal_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/widget/container_icon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/container_icon.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,19 +27,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/data_paspor.dart">
+        <entry file="file://$PROJECT_DIR$/lib/data/data_izin_tinggal.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1151">
-              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+            <state relative-caret-position="389">
+              <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/screens/merek/merek_screen.dart">
+        <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="46" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+            <state relative-caret-position="539">
+              <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -48,22 +48,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart">
+        <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="51" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="51" />
+            <state relative-caret-position="80">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -94,15 +82,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/data/data_merek.dart" />
-        <option value="$PROJECT_DIR$/lib/data/data_hak_cipta.dart" />
-        <option value="$PROJECT_DIR$/lib/data/data_desain_industri.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_hak_paten.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_fidusia.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_notaris.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_visa.dart" />
         <option value="$PROJECT_DIR$/lib/data/izin_tinggal.dart" />
-        <option value="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_pora.dart" />
         <option value="$PROJECT_DIR$/lib/screens/barang_sitaan_screen.dart" />
         <option value="$PROJECT_DIR$/lib/screens/paspor_screen.dart" />
@@ -145,6 +129,10 @@
         <option value="$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart" />
         <option value="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" />
         <option value="$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/izin_tinggal/detail_izin_tinggal.dart" />
+        <option value="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart" />
       </list>
     </option>
   </component>
@@ -171,6 +159,11 @@
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="iconpop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,7 +183,7 @@
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="merek" type="462c0819:PsiDirectoryNode" />
+              <item name="izin_tinggal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
@@ -224,11 +217,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\siEmil\master-repo\lib\screens\izin_tinggal" />
       <recent name="F:\siEmil\master-repo\lib\screens\paspor" />
       <recent name="F:\siEmil\master-repo\iconpop" />
       <recent name="F:\siEmil\master-repo\lib\screens\notaris" />
       <recent name="F:\siEmil\master-repo\lib\screens\hak_cipta" />
-      <recent name="F:\siEmil\master-repo\lib\screens\visa" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,7 +339,7 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.33990896" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3396779" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.34114203" />
@@ -395,28 +388,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="background COlor" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iconpop/c_aturan.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/iconpop/c_definisi.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -693,16 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/merek/container_icon_merek.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -726,7 +687,27 @@
     <entry file="file://$PROJECT_DIR$/lib/screens/merek/merek_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+          <caret line="46" column="3" selection-start-line="5" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal/detail_izin_tinggal.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -735,8 +716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="51" />
+        <state relative-caret-position="527">
+          <caret line="31" column="51" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -745,8 +726,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        <state relative-caret-position="539">
+          <caret line="46" column="3" lean-forward="true" selection-start-line="4" selection-end-line="46" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/data_izin_tinggal.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="65" column="29" lean-forward="true" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconpop/izin tinggal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
