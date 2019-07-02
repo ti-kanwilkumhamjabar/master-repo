@@ -22,12 +22,13 @@ class _MainScreenState extends State<MainScreen> {
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("siEmil",
+                  title: Text("Sistem Elektronik Manajemen Informasi dan Layanan",
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 16.0,
+                        fontSize: 10.0,
+                        fontWeight: FontWeight.w600
                       )),
-                  background: Image.asset('images/image1.jpeg',
+                  background: Image.asset('images/image2.jpeg',
                     fit: BoxFit.cover,
                   )),
             ),

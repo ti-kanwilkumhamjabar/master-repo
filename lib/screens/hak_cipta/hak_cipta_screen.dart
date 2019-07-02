@@ -23,7 +23,7 @@ class HakCiptaScreen extends StatelessWidget {
                         color: Colors.white,
                         fontSize: 16.0,
                       )),
-                  background: Image.asset('images/image1.jpeg',
+                  background: Image.asset('images/image2.jpeg',
                     fit: BoxFit.cover,
                   )),
             ),
