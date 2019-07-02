@@ -10,53 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6b8667-9d9d-4da1-8565-765dc2e80c4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/data/data_paspor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/pegawai1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/pegawai1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/app.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/pegawai1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/pegawai1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_instr" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_instr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/snapshot.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/snapshot.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/pegawai1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/pegawai1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/pegawai1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/pegawai1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_instr" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_instr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/pegawai1.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/pegawai1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/desain_industri/desain_industri_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/desain_industri/desain_industri_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/desain_industri/detail_desain_industri.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/desain_industri/detail_desain_industri.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/fidusia/detail_fidusia.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/fidusia/detail_fidusia.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/fidusia/fidusia_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/fidusia/fidusia_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_cipta/detail_hak_cipta.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_cipta/detail_hak_cipta.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_cipta/hak_cipta_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_cipta/hak_cipta_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_paten/detail_paten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_paten/detail_paten.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_paten/hak_paten_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_paten/hak_paten_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/main_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/merek/detail_merek.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/merek/detail_merek.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/merek/merek_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/merek/merek_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/notaris/detail_notaris.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/notaris/detail_notaris.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/notaris/notaris_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/notaris/notaris_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/visa/detail_visa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/visa/detail_visa.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/visa/visa_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/visa/visa_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/paspor_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widget/container_icon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/container_icon.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +26,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/screens/main_screen.dart">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/data/data_paspor.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+            <state relative-caret-position="1151">
+              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/merek/merek_screen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="46" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="51" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="51" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -102,10 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/screens/hak_paten_screen.dart" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
-        <option value="$PROJECT_DIR$/data/data_hak_paten.dart" />
-        <option value="$PROJECT_DIR$/lib/screens/hak_paten/rating_bar.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_merek.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_hak_cipta.dart" />
         <option value="$PROJECT_DIR$/lib/data/data_desain_industri.dart" />
@@ -153,6 +141,10 @@
         <option value="$PROJECT_DIR$/lib/screens/notaris/detail_notaris.dart" />
         <option value="$PROJECT_DIR$/lib/screens/visa/detail_visa.dart" />
         <option value="$PROJECT_DIR$/lib/screens/main_screen.dart" />
+        <option value="$PROJECT_DIR$/lib/data/data_paspor.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" />
+        <option value="$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart" />
       </list>
     </option>
   </component>
@@ -198,34 +190,6 @@
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="desain_industri" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="fidusia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="hak_cipta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="hak_paten" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
               <item name="merek" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -233,14 +197,7 @@
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="notaris" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="visa" type="462c0819:PsiDirectoryNode" />
+              <item name="paspor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
@@ -267,11 +224,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\siEmil\master-repo\lib\screens\paspor" />
       <recent name="F:\siEmil\master-repo\iconpop" />
       <recent name="F:\siEmil\master-repo\lib\screens\notaris" />
       <recent name="F:\siEmil\master-repo\lib\screens\hak_cipta" />
       <recent name="F:\siEmil\master-repo\lib\screens\visa" />
-      <recent name="F:\siEmil\master-repo\lib\screens\fidusia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -375,7 +332,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2080537" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2080537" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -389,7 +346,7 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32796487" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.33990896" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.34114203" />
@@ -438,69 +395,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="background COlor" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/izin_tinggal_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iconpop/data_perbandingan.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/fidusia/container_icon_fidusia.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/hak_cipta/container_icon_hak_cipta.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/hak_paten/container_icon_hak_paten.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/merek/container_icon_merek.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -689,16 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/merek/merek_screen.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/notaris/notaris_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -759,16 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/merek/detail_merek.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/notaris/detail_notaris.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -791,8 +665,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/main_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        <state relative-caret-position="595">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/data_notaris.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/pora_screen.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/merek/detail_merek.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="36" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/detail_paspor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/merek/container_icon_merek.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iconpop/d_apengajuan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/data_paspor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1151">
+          <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/merek/merek_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="46" column="3" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/paspor_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
