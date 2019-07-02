@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 02 15:05:51 ICT 2019
+#Tue Jul 02 18:40:36 ICT 2019
 2.path=flutter_assets/iconpop/prev.png
 14.set=ASSET
 107.baseType=DIRECTORY

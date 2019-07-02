@@ -5,14 +5,14 @@ class KlienBapasScreen extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Klien Bapas SCREEN"),
+        title: Text("Klien Bapas"),
       ),
       body: Center(
         child: RaisedButton(
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text('Go back!'),
+          child: Text('Masih dalam tahap Pengembangan :)'),
         ),
       ),
     );

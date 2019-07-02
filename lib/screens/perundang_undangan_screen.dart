@@ -5,14 +5,14 @@ class PerundangUndanganScreen extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Perundang - undangan SCREEN"),
+        title: Text("Perundang - undangan"),
       ),
       body: Center(
         child: RaisedButton(
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text('Go back!'),
+          child: Text('Masih dalam tahap Pengembangan :)'),
         ),
       ),
     );
