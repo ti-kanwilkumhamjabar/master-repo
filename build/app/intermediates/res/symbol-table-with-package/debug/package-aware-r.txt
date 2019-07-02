@@ -1,0 +1,4 @@
+com.kanwilkumhamjabar.master_repo
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

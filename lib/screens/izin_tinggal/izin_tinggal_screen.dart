@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/charts/pie_chart.dart';
 import 'package:master_repo/screens/izin_tinggal/container_icon_izin_tinggal.dart';
 
 class IzinTinggalScreen extends StatelessWidget{

@@ -21,6 +21,7 @@ dependencies:
   flutter_lorem: ^1.1.0
   flutter:
     sdk: flutter
+  url_launcher : ^5.0.3
 
 
   # The following adds the Cupertino Icons font to your application.

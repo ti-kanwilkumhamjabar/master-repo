@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_paspor.dart';
 import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/paspor/antrian_online.dart';
 import 'package:master_repo/screens/paspor/detail_paspor.dart';
 
 class ContainerIconPaspor extends StatelessWidget {
@@ -30,7 +31,7 @@ class ContainerIconPaspor extends StatelessWidget {
               return DetailPaspor(data : dataPaspor[2]);
             }
             else if(this.imageName == "d_apengajuan"){
-              return DetailPaspor(data : dataPaspor[3]);
+              return AntrianOnline(data : dataPaspor[3]);
             }
             else{
               return HamScreen();
