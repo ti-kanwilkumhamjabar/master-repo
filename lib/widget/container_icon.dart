@@ -11,7 +11,7 @@ import 'package:master_repo/screens/klien_bapas_screen.dart';
 import 'package:master_repo/screens/login_screen.dart';
 import 'package:master_repo/screens/merek/merek_screen.dart';
 import 'package:master_repo/screens/narapidana_screen.dart';
-import 'package:master_repo/screens/notaris_screen.dart';
+import 'package:master_repo/screens/notaris/notaris_screen.dart';
 import 'package:master_repo/screens/paspor_screen.dart';
 import 'package:master_repo/screens/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora_screen.dart';

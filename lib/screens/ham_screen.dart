@@ -32,36 +32,35 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    dataMap.putIfAbsent("JABAR", () => 30);
-    dataMap.putIfAbsent("NASIONAL", () => 70);
+    dataMap.putIfAbsent("JABAR", () => 1079);
+    dataMap.putIfAbsent("NASIONAL", () => 5011);
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Pie Chart"),
-      ),
-      body: Container(
-        child: Center(
-          child:
-          PieChart(
-              dataMap: dataMap,
-              legendFontColor: Colors.blueGrey[900],
-              legendFontSize: 14.0,
-              legendFontWeight: FontWeight.w500,
-              animationDuration: Duration(milliseconds: 1000),
-              chartLegendSpacing: 20.0,
-              chartRadius: MediaQuery.of(context).size.width / 2.0,
-              showChartValuesInPercentage: true,
-              showChartValues: true,
-              showChartValuesOutside: true,
-              chartValuesColor: Colors.blueGrey[900].withOpacity(0.9),
-              colorList: colorList,
-              showLegends: true
-          ),
+        appBar: AppBar(
+          title: Text("Data Perbandingan Jabar dan Nasional"),
         ),
-      ),
+        body: Column(
+            children: <Widget>[
+              PieChart(
+                  dataMap: dataMap,
+                  legendFontColor: Colors.blueGrey[900],
+                  legendFontSize: 14.0,
+                  legendFontWeight: FontWeight.w500,
+                  animationDuration: Duration(milliseconds: 1500),
+                  chartLegendSpacing: 20.0,
+                  chartRadius: MediaQuery.of(context).size.width / 2.0,
+                  showChartValuesInPercentage: false,
+                  showChartValues: true,
+                  showChartValuesOutside: false,
+                  chartValuesColor: Colors.blueGrey[900].withOpacity(0.9),
+                  colorList: colorList,
+                  showLegends: true
+              )
+            ]
+        )
     );
   }
 }

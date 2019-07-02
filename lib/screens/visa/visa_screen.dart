@@ -1,64 +1,48 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/data/data_visa.dart';
+import 'package:master_repo/screens/visa/container_icon_visa.dart';
 
 class VisaScreen extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
-    //app bar
-    final appBar = AppBar(
-      elevation: .5,
-      leading: IconButton(
-        icon: Icon(Icons.arrow_back),
-        onPressed: () {},
-      ),
-      title: Text('Visa'),
-      actions: <Widget>[
-        IconButton(
-          icon: Icon(Icons.search),
-          onPressed: () {},
-        )
-      ],
-    );
+    return Scaffold(
+      backgroundColor: Colors.teal,
 
-    ///create book tile hero
-    createTile(DataVisa dataVisa) => Hero(
-      tag: dataVisa.title,
-      child: Material(
-        elevation: 15.0,
-        shadowColor: Colors.yellow.shade900,
-        child: InkWell(
-          onTap: () {
-            Navigator.pushNamed(context, 'detail/${dataVisa.title}');
-          },
-          child: Image(
-            image: AssetImage(dataVisa.image),
-            fit: BoxFit.contain,
+      body: NestedScrollView(
+        headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
+          return <Widget>[
+            SliverAppBar(
+              backgroundColor: Colors.teal,
+              expandedHeight: 200.0,
+              floating: false,
+              pinned: true,
+              flexibleSpace: FlexibleSpaceBar(
+                  centerTitle: true,
+                  title: Text("VISA",
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 16.0,
+                      )),
+                  background: Image.asset('images/image1.jpeg',
+                    fit: BoxFit.cover,
+                  )),
+            ),
+          ];
+        },
+        body: Container(
+          color: Colors.teal,
+          margin: EdgeInsets.all(5.0),
+          child: GridView.count(
+            crossAxisCount: 3,
+            children: <Widget>[
+              ContainerIconVisa(imageName: "c_definisi"),
+              ContainerIconVisa(imageName: "c_prosedur"),
+              ContainerIconVisa(imageName: "c_aturan"),
+              ContainerIconVisa(imageName: "data_perbandingan"),
+
+            ],
           ),
         ),
       ),
-    );
-
-    ///create book grid tiles
-    final grid = CustomScrollView(
-      primary: false,
-      slivers: <Widget>[
-        SliverPadding(
-          padding: EdgeInsets.all(16.0),
-          sliver: SliverGrid.count(
-            childAspectRatio: 2 / 3,
-            crossAxisCount: 3,
-            mainAxisSpacing: 20.0,
-            crossAxisSpacing: 20.0,
-            children: dataVisa.map((book) => createTile(book)).toList(),
-          ),
-        )
-      ],
-    );
-
-    return Scaffold(
-      backgroundColor: Theme.of(context).primaryColor,
-      appBar: appBar,
-      body: grid,
     );
   }
 }

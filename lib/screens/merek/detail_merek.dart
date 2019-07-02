@@ -1,101 +1,55 @@
-import 'package:master_repo/data/data_merek.dart';
 import 'package:flutter/material.dart';
+import 'package:master_repo/data/data_merek.dart';
 
-class DetailMerek extends StatelessWidget {
-  final DataMerek book;
-  DetailMerek(this.book);
+class DetailMerek extends StatelessWidget{
+  final DataMerek data;
+  final Function onPressed;
+
+  DetailMerek({
+    @required this.data, this.onPressed
+  });
 
   @override
   Widget build(BuildContext context) {
-    //app bar
-    final appBar = AppBar(
-      elevation: .5,
-      title: Text('Merek'),
-      actions: <Widget>[
-        IconButton(
-          icon: Icon(Icons.search, size: 20,),
-          onPressed: () {},
-        )
-      ],
-    );
-
-    ///detail of book image and it's pages
-    final topLeft = Column(
-      children: <Widget>[
-        Padding(
-          padding: EdgeInsets.all(16.0),
-          child: Hero(
-            tag: book.title,
-            child: Material(
-              elevation: 15.0,
-              shadowColor: Colors.yellow.shade900,
-              child: Image(
-                image: AssetImage(book.image),
-                fit: BoxFit.cover,
-              ),
+    return Scaffold(
+      resizeToAvoidBottomPadding: false,
+      backgroundColor: Colors.teal,
+      body: NestedScrollView(
+        headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
+          return <Widget>[
+            SliverAppBar(
+              backgroundColor: Colors.teal,
+              expandedHeight: 200.0,
+              floating: false,
+              pinned: true,
+              flexibleSpace: FlexibleSpaceBar(
+                  centerTitle: true,
+                  title: Text("",
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 16.0,
+                      )),
+                  background: Image.asset('images/image1.jpeg',
+                    fit: BoxFit.cover,
+                  )),
+            ),
+          ];
+        },
+        body: SingleChildScrollView(
+          child: ConstrainedBox(
+            constraints: BoxConstraints(),
+            child: Column(
+              children: <Widget>[
+                Text(
+                  '\n${data.title}\n',
+                  style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5),
+                ),
+                Text('${data.description}'),
+              ],
             ),
           ),
         ),
-      ],
-    );
-
-    ///detail top right
-    final topRight = Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: <Widget>[
-        text(book.title,
-            size: 16, isBold: true, padding: EdgeInsets.only(top: 16.0)),
-        SizedBox(height: 32.0),
-
-      ],
-    );
-
-    final topContent = Container(
-      color: Theme.of(context).primaryColor,
-      padding: EdgeInsets.only(bottom: 16.0),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: <Widget>[
-          Flexible(flex: 2, child: topLeft),
-          Flexible(flex: 3, child: topRight),
-        ],
-      ),
-    );
-
-    ///scrolling text description
-    final bottomContent = Container(
-      height: 350.0,
-      child: SingleChildScrollView(
-        padding: EdgeInsets.all(16.0),
-        child: Text(
-          book.description,
-          style: TextStyle(fontSize: 13.0, height: 1.5),
-        ),
-      ),
-    );
-
-    return Scaffold(
-      appBar: appBar,
-      body: Column(
-        children: <Widget>[topContent, bottomContent],
       ),
     );
   }
-
-  ///create text widget
-  text(String data,
-      {Color color = Colors.black87,
-        num size = 14,
-        EdgeInsetsGeometry padding = EdgeInsets.zero,
-        bool isBold = false}) =>
-      Padding(
-        padding: padding,
-        child: Text(
-          data,
-          style: TextStyle(
-              color: color,
-              fontSize: size.toDouble(),
-              fontWeight: isBold ? FontWeight.bold : FontWeight.normal),
-        ),
-      );
 }

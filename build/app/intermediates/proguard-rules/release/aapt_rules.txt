@@ -1,0 +1,4 @@
+# Referenced at F:\siEmil\master-repo\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:23
+-keep class com.kanwilkumhamjabar.master_repo.MainActivity { <init>(...); }
+# Referenced at F:\siEmil\master-repo\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
