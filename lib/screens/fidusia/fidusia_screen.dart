@@ -37,6 +37,7 @@ class FidusiaScreen extends StatelessWidget{
               ContainerIconFidusia(imageName: "c_definisi"),
               ContainerIconFidusia(imageName: "c_prosedur"),
               ContainerIconFidusia(imageName: "c_aturan"),
+              ContainerIconFidusia(imageName: "f_search"),
               ContainerIconFidusia(imageName: "data_perbandingan")
             ],
           ),

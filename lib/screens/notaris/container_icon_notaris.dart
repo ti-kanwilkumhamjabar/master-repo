@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_notaris.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/notaris/detail_notaris.dart';
 
 class ContainerIconNotaris extends StatelessWidget{
@@ -28,11 +28,11 @@ class ContainerIconNotaris extends StatelessWidget{
             else if(this.imageName == "n_tusi"){
               return DetailNotaris(data : dataNotaris[2]);
             }
-            else if(this.imageName == "p_aturan"){
+            else if(this.imageName == "c_aturan"){
               return DetailNotaris(data : dataNotaris[3]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

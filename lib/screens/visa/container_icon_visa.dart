@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_visa.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/visa/detail_visa.dart';
 
 class ContainerIconVisa extends StatelessWidget{
@@ -29,7 +29,7 @@ class ContainerIconVisa extends StatelessWidget{
               return DetailVisa(data : dataVisa[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

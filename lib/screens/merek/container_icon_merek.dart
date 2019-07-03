@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_merek.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/merek/detail_merek.dart';
 
 class ContainerIconMerek extends StatelessWidget {
@@ -30,7 +30,7 @@ class ContainerIconMerek extends StatelessWidget {
               return DetailMerek(data : dataMerek[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

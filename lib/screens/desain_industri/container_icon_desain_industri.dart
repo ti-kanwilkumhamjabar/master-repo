@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_desain_industri.dart';
 import 'package:master_repo/screens/desain_industri/detail_desain_industri.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconDesainIndustri extends StatelessWidget{
   final String imageName;
@@ -29,7 +29,7 @@ class ContainerIconDesainIndustri extends StatelessWidget{
               return DetailDesainIndustri(data : dataDesainIndustri[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

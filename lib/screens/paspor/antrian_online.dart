@@ -60,23 +60,11 @@ class AntrianOnline extends StatelessWidget{
     );
   }
   _launchURL() async {
-    const url = 'https://antrian.imigrasi.go.id';
+    String url = data.description;
     if (await canLaunch(url)) {
       await launch(url);
     } else {
       throw 'Could not launch $url';
     }
   }
-/*
-body: SingleChildScrollView(
-          padding: const EdgeInsets.all(16.0),
-          child: ConstrainedBox(
-            constraints: BoxConstraints(),
-            child: RaisedButton(
-                onPressed:  _launchURL,
-              child: Text('Antrian Online'),
-            ),
-          ),
-        ),
-* */
 }

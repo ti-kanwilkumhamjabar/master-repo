@@ -1,21 +1,22 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/screens/bantuan_hukum_screen.dart';
-import 'package:master_repo/screens/barang_sitaan_screen.dart';
+import 'package:master_repo/screens/bantuan_hukum/bantuan_hukum_screen.dart';
+import 'package:master_repo/screens/barang_sitaan/barang_sitaan_screen.dart';
 import 'package:master_repo/screens/desain_industri/desain_industri_screen.dart';
 import 'package:master_repo/screens/fidusia/fidusia_screen.dart';
 import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
 import 'package:master_repo/screens/hak_cipta/hak_cipta_screen.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
+import 'package:master_repo/screens/ham/ham_screen.dart';
 import 'package:master_repo/screens/izin_tinggal/izin_tinggal_screen.dart';
-import 'package:master_repo/screens/klien_bapas_screen.dart';
+import 'package:master_repo/screens/klien_bapas/klien_bapas_screen.dart';
 import 'package:master_repo/screens/login_screen.dart';
 import 'package:master_repo/screens/merek/merek_screen.dart';
-import 'package:master_repo/screens/narapidana_screen.dart';
+import 'package:master_repo/screens/narapidana/narapidana_screen.dart';
 import 'package:master_repo/screens/notaris/notaris_screen.dart';
 import 'package:master_repo/screens/paspor/paspor_screen.dart';
-import 'package:master_repo/screens/perundang_undangan_screen.dart';
-import 'package:master_repo/screens/pora_screen.dart';
-import 'package:master_repo/screens/tahanan_screen.dart';
+import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
+import 'package:master_repo/screens/pora/pora_screen.dart';
+import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
 
 class ContainerIcon extends StatelessWidget {

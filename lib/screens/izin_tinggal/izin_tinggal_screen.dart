@@ -35,9 +35,9 @@ class IzinTinggalScreen extends StatelessWidget{
           child: GridView.count(
             crossAxisCount: 3,
             children: <Widget>[
-              ContainerIconIzinTinggal(imageName: "izin tinggal"),
+              ContainerIconIzinTinggal(imageName: "Izin_Kunjungan"),
               ContainerIconIzinTinggal(imageName: "c_prosedur"),
-              ContainerIconIzinTinggal(imageName: "c_definisi"),
+              ContainerIconIzinTinggal(imageName: "Izin_Perkawinan"),
               ContainerIconIzinTinggal(imageName: "data_perbandingan"),
             ],
           ),
