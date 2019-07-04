@@ -5,13 +5,13 @@ class BarangSitaanScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
 
       body: NestedScrollView(
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
           return <Widget>[
             SliverAppBar(
-              backgroundColor: Colors.teal,
+              backgroundColor: Colors.white,
               expandedHeight: 200.0,
               floating: false,
               pinned: true,
@@ -29,10 +29,10 @@ class BarangSitaanScreen extends StatelessWidget {
           ];
         },
         body: Container(
-          color: Colors.teal,
+          color: Colors.white,
           margin: EdgeInsets.all(5.0),
           child: GridView.count(
-            crossAxisCount: 3,
+            crossAxisCount: 2,
             children: <Widget>[
               ContainerIconBarangSitaan(imageName: "c_definisi"),
               ContainerIconBarangSitaan(imageName: "c_aturan")

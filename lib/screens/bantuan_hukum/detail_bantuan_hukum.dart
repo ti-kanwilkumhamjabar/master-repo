@@ -14,12 +14,12 @@ class DetailBantuanHukum extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
       body: NestedScrollView(
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
           return <Widget>[
             SliverAppBar(
-              backgroundColor: Colors.teal,
+              backgroundColor: Colors.white,
               expandedHeight: 200.0,
               floating: false,
               pinned: true,
@@ -44,10 +44,10 @@ class DetailBantuanHukum extends StatelessWidget{
               children: <Widget>[
                 Text(
                     '\n${data.title}\n',
-                    style: TextStyle(color: Colors.white, fontSize: 25.0, decorationThickness: 5)
+                    style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
                 ),
                 Text('Klik tautan di bawah untuk mengunjungi ${data.title}\n', textAlign: TextAlign.justify,
-                    style: TextStyle(color: Colors.white, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
+                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
                 RaisedButton(
                     onPressed:  _launchURL,
                     child: Text('${data.title}')

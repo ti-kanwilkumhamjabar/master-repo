@@ -11,7 +11,7 @@ class KlienBapasScreen extends StatelessWidget{
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
           return <Widget>[
             SliverAppBar(
-              backgroundColor: Colors.teal,
+              backgroundColor: Colors.white,
               expandedHeight: 200.0,
               floating: false,
               pinned: true,
@@ -29,10 +29,10 @@ class KlienBapasScreen extends StatelessWidget{
           ];
         },
         body: Container(
-          color: Colors.teal,
+          color: Colors.white,
           margin: EdgeInsets.all(5.0),
           child: GridView.count(
-            crossAxisCount: 3,
+            crossAxisCount: 2,
             children: <Widget>[
               ContainerIconKlienBapas(imageName: "c_definisi"),
               ContainerIconKlienBapas(imageName: "c_aturan")

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_paspor.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class AntrianOnline extends StatelessWidget{
   final DataPaspor data;
@@ -13,12 +14,12 @@ class AntrianOnline extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
       body: NestedScrollView(
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
           return <Widget>[
             SliverAppBar(
-              backgroundColor: Colors.teal,
+              backgroundColor: Colors.white,
               expandedHeight: 200.0,
               floating: false,
               pinned: true,
@@ -43,10 +44,10 @@ class AntrianOnline extends StatelessWidget{
               children: <Widget>[
                 Text(
                     '\n${data.title}\n',
-                    style: TextStyle(color: Colors.white, fontSize: 25.0, decorationThickness: 5)
+                    style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
                 ),
                 Text('Klik tautan di bawah untuk mengunjungi situs antrian online.\n', textAlign: TextAlign.justify,
-                    style: TextStyle(color: Colors.white, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
+                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
                 RaisedButton(
                   onPressed:  _launchURL,
                   child: Text('Antrian Online')
@@ -61,10 +62,10 @@ class AntrianOnline extends StatelessWidget{
   _launchURL() async {
 
     const url = 'https://antrian.imigrasi.go.id';
-    /*if (await canLaunch(url)) {
+    if (await canLaunch(url)) {
       await launch(url);
     } else {
       throw 'Could not launch $url';
-    }*/
+    }
   }
 }

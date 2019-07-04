@@ -14,7 +14,7 @@ class ContainerIconDesainIndustri extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
       body: GestureDetector(
         onTap: (){
           Navigator.push(context, MaterialPageRoute(builder: (_){
@@ -41,7 +41,7 @@ class ContainerIconDesainIndustri extends StatelessWidget{
           decoration: BoxDecoration(
               image: DecorationImage(
                   image: AssetImage('iconpop/$imageName.png'), fit: BoxFit.fitHeight),
-              color: Colors.teal
+              color: Colors.white
           ),
         ),
       ),

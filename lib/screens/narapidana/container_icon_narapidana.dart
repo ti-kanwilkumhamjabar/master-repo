@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_narapidana.dart';
-import 'package:master_repo/data/data_tahanan.dart';
 import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/narapidana/detail_narapidana.dart';
-import 'package:master_repo/screens/tahanan/detail_tahanan.dart';
+
 
 class ContainerIconNarapidana extends StatelessWidget{
   final String imageName;
@@ -16,7 +15,7 @@ class ContainerIconNarapidana extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
       body: GestureDetector(
         onTap: (){
           Navigator.push(context, MaterialPageRoute(builder: (_){
@@ -37,7 +36,7 @@ class ContainerIconNarapidana extends StatelessWidget{
           decoration: BoxDecoration(
               image: DecorationImage(
                   image: AssetImage('iconpop/$imageName.png'), fit: BoxFit.fitHeight),
-              color: Colors.teal
+              color: Colors.white
           ),
         ),
       ),
