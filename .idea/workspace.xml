@@ -10,129 +10,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6b8667-9d9d-4da1-8565-765dc2e80c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iconpop/BHukum_JDIHN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/BHukum_Layanan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/HAM_Konten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/HAM_Produk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/Izin_Kunjungan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/Izin_Perkawinan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/PORA_Link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/PP_Harmonisasi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/PP_Peraturan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/PP_Putusan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iconpop/PP_Rancangan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_bantuan_hukum.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_barang_sitaan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_ham.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_klien_bapas.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_narapidana.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_perpu.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data/data_tahanan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/bantuan_hukum/container_icon_bantuanhukum.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/bantuan_hukum/detail_bantuan_hukum.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/barang_sitaan/container_icon_barang_sitaan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/barang_sitaan/detail_barang_sitaan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/data_sample.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/fidusia/pencarian_fidusia.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/ham/container_icon_ham.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/ham/detail_ham.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/ham/ham_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/klien_bapas/container_icon_klienbapas.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/klien_bapas/detail_klien_bapas.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/narapidana/container_icon_narapidana.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/narapidana/detail_narapidana.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/perpu/container_icon_perpu.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/perpu/detail_perpu.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/pora/container_icon_pora.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/pora/pelaporan_orang_asing.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/tahanan/container_icon_tahanan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/tahanan/detail_tahanan.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_aturan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_aturan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_definisi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_definisi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_prosedur.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/c_prosedur.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/data_jabar.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/data_jabar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/data_perbandingan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/data_perbandingan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/f_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/f_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_kode.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_kode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_syarat.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_syarat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_tusi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/iconpop/n_tusi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_aturan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_aturan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_definisi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_definisi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_prosedur.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/c_prosedur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/d_apengajuan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/d_apengajuan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/data_jabar.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/data_jabar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/data_perbandingan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/data_perbandingan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/f_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/f_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_kode.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_kode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_syarat.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_syarat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_tusi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/iconpop/n_tusi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_instr" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/isolate_snapshot_instr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/kernel_compile.d.fingerprint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/release/snapshot.d.fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/snapshot.d.fingerprint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_aturan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_aturan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_definisi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_definisi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_prosedur.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/c_prosedur.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/data_jabar.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/data_jabar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/data_perbandingan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/data_perbandingan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/f_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/f_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_kode.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_kode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_syarat.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_syarat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_tusi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/iconpop/n_tusi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_aturan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_aturan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_definisi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_definisi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_prosedur.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/c_prosedur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/d_apengajuan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/d_apengajuan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/data_jabar.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/data_jabar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/data_perbandingan.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/data_perbandingan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/f_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/f_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_kode.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_kode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_syarat.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_syarat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_tusi.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/iconpop/n_tusi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_data" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_instr" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/isolate_snapshot_instr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/c_aturan.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/c_aturan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/c_definisi.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/c_definisi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/c_prosedur.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/c_prosedur.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/data_jabar.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/data_jabar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/data_perbandingan.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/data_perbandingan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/f_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/f_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/n_kode.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/n_kode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/n_syarat.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/n_syarat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconpop/n_tusi.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/n_tusi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_desain_industri.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_desain_industri.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_fidusia.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_fidusia.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_hak_cipta.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_hak_cipta.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_hak_paten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_hak_paten.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_izin_tinggal.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_merek.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_merek.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_notaris.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_notaris.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_paspor.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_paspor.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_pora.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_pora.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data/data_visa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/data_visa.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/bantuan_hukum_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/bantuan_hukum/bantuan_hukum_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/barang_sitaan_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/barang_sitaan/barang_sitaan_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/desain_industri/container_icon_desain_industri.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/desain_industri/container_icon_desain_industri.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/fidusia/container_icon_fidusia.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/fidusia/container_icon_fidusia.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/fidusia/fidusia_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/fidusia/fidusia_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_cipta/container_icon_hak_cipta.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_cipta/container_icon_hak_cipta.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/hak_paten/container_icon_hak_paten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/hak_paten/container_icon_hak_paten.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/ham_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal/container_icon_izin_tinggal.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/izin_tinggal/izin_tinggal_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/klien_bapas_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/klien_bapas/klien_bapas_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/merek/container_icon_merek.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/merek/container_icon_merek.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/narapidana_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/narapidana/narapidana_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/paspor/antrian_online.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/paspor/antrian_online.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/perundang_undangan_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/perpu/perundang_undangan_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/pora_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/pora/pora_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/tahanan_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/tahanan/tahanan_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/visa/container_icon_visa.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/visa/container_icon_visa.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widget/container_icon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/container_icon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iconpop/d_apengajuan.png" beforeDir="false" afterPath="$PROJECT_DIR$/iconpop/d_apengajuan.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/data_notaris.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
+            <state relative-caret-position="867">
               <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
             </state>
           </provider>
@@ -163,11 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="374">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -178,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/screens/notaris/notaris_screen.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="646">
               <caret line="39" column="55" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="55" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -265,8 +195,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="326" />
-    <option name="y" value="6" />
+    <option name="x" value="325" />
+    <option name="y" value="5" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -275,12 +205,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="master-repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="iconpop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
@@ -322,15 +259,20 @@
             </path>
             <path>
               <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="paspor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,11 +290,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\siEmil\master-repo\iconpop" />
       <recent name="F:\siEmil\master-repo\lib\screens\bantuan_hukum" />
       <recent name="F:\siEmil\master-repo\lib\screens\perpu" />
       <recent name="F:\siEmil\master-repo\lib\screens\klien_bapas" />
       <recent name="F:\siEmil\master-repo\lib\screens\pora" />
-      <recent name="F:\siEmil\master-repo\iconpop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -453,10 +395,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.2080537" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2080537" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -470,7 +411,7 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3396779" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.3396779" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.34114203" />
@@ -519,9 +460,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="background COlor" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iconpop/icoIM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/iconpop/icoB.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -606,16 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" lean-forward="true" selection-end-line="69" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" lean-forward="true" selection-end-line="54" selection-end-column="1" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -898,6 +826,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/iconpop/d_apengajuan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/data_notaris.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/notaris/detail_notaris.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -907,16 +845,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/data_notaris.dart">
+    <entry file="file://$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        <state relative-caret-position="374">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/screens/notaris/notaris_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="646">
           <caret line="39" column="55" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="55" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -924,10 +865,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/screens/notaris/container_icon_notaris.dart">
+    <entry file="file://$PROJECT_DIR$/lib/screens/paspor/container_icon_paspor.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        <state relative-caret-position="340">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
