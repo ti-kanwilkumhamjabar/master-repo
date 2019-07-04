@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_paspor.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/paspor/antrian_online.dart';
 import 'package:master_repo/screens/paspor/detail_paspor.dart';
 
@@ -34,7 +34,7 @@ class ContainerIconPaspor extends StatelessWidget {
               return AntrianOnline(data : dataPaspor[3]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_izin_tinggal.dart';
-import 'package:master_repo/data/data_paspor.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/izin_tinggal/detail_izin_tinggal.dart';
-import 'package:master_repo/screens/paspor/detail_paspor.dart';
+
 
 class ContainerIconIzinTinggal extends StatelessWidget {
 
@@ -22,17 +21,17 @@ class ContainerIconIzinTinggal extends StatelessWidget {
         onTap: (){
           Navigator.push(context, MaterialPageRoute(builder: (_){
 
-            if(this.imageName == "izin tinggal"){
+            if(this.imageName == "Izin_Kunjungan"){
               return DetailIzinTinggal(data : dataIzinTinggal[0]);
             }
             else if(this.imageName == "c_prosedur"){
               return DetailIzinTinggal(data : dataIzinTinggal[1]);
             }
-            else if(this.imageName == "c_definisi"){
+            else if(this.imageName == "Izin_Perkawinan"){
               return DetailIzinTinggal(data : dataIzinTinggal[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

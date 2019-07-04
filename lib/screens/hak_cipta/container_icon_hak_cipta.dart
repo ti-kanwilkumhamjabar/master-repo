@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_hak_cipta.dart';
 import 'package:master_repo/screens/hak_cipta/detail_hak_cipta.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconHakCipta extends StatelessWidget {
 
@@ -30,7 +30,7 @@ class ContainerIconHakCipta extends StatelessWidget {
               return DetailHakCipta(data : dataHakCipta[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

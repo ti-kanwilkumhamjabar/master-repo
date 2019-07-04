@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_fidusia.dart';
 import 'package:master_repo/screens/fidusia/detail_fidusia.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/fidusia/pencarian_fidusia.dart';
+import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconFidusia extends StatelessWidget{
   final String imageName;
@@ -28,8 +29,11 @@ class ContainerIconFidusia extends StatelessWidget{
             else if(this.imageName == "c_aturan"){
               return DetailFidusia(data : dataFidusia[2]);
             }
+            else if(this.imageName == "f_search"){
+              return PencarianFidusia(data : dataFidusia[3]);
+            }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

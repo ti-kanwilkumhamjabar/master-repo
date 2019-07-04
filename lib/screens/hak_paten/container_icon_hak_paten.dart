@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_hak_paten.dart';
 import 'package:master_repo/screens/hak_paten/detail_paten.dart';
-import 'package:master_repo/screens/ham_screen.dart';
+import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconHakPaten extends StatelessWidget {
 
@@ -30,7 +30,7 @@ class ContainerIconHakPaten extends StatelessWidget {
               return DetailHakPaten(data : dataHakPaten[2]);
             }
             else{
-              return HamScreen();
+              return DataSample();
             }
             //return HakPatenScreen();
           }));

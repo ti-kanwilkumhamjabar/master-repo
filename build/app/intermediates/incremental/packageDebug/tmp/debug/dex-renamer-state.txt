@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Thu Jul 04 10:49:54 ICT 2019
 base.0=C\:\\Users\\Tamu\\AndroidStudioProjects\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+=======
+#Wed Jul 03 15:59:29 ICT 2019
+base.0=F\:\\siEmil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+>>>>>>> 996a631cd8f488c533dd448bd79657a335bfc4f1
 path.0=classes.dex
 renamed.0=classes.dex
