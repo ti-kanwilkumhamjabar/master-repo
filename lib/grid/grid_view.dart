@@ -124,7 +124,7 @@ class _BodyGridState extends State<BodyGrid> {
     return GridView.builder(
         itemCount: list_grid.length,
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 2),
+            crossAxisCount: 4),
         itemBuilder: (BuildContext context, int index){
           return Padding(
             padding: const EdgeInsets.all(4.0),
@@ -215,9 +215,15 @@ class SingleGrid extends StatelessWidget {
             child: GridTile(
                 footer: Container(
                   color: Colors.white70,
-                  child: ListTile(
-                    leading: Text(prod_title, style: TextStyle(fontWeight: FontWeight.bold),),
-                    title: Text(description, style: TextStyle(color: Colors.blueGrey),),
+                  child: Text(
+                      prod_title,
+                      style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 10.0
+                      ),
+                      textAlign: TextAlign.center,
+//                    leading: Text(prod_title, style: TextStyle(fontWeight: FontWeight.bold, fontSize: 8.0),textAlign: TextAlign.center,),
+//                    title: Text(description, style: TextStyle(fontWeight: FontWeight.bold,),textAlign: TextAlign.center),
                   ),
                 ),
                 child: Image.asset(
