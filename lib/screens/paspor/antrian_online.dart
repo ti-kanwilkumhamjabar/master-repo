@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_paspor.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class AntrianOnline extends StatelessWidget{
   final DataPaspor data;
@@ -60,11 +59,12 @@ class AntrianOnline extends StatelessWidget{
     );
   }
   _launchURL() async {
-    String url = data.description;
-    if (await canLaunch(url)) {
+
+    const url = 'https://antrian.imigrasi.go.id';
+    /*if (await canLaunch(url)) {
       await launch(url);
     } else {
       throw 'Could not launch $url';
-    }
+    }*/
   }
 }
