@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\Tamu\\AndroidStudioProjects\\master-repo\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "F:\\siEmil\\master-repo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Tamu\\AndroidStudioProjects\\master-repo\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
