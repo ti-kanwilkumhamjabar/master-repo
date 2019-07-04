@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jul 04 12:05:33 ICT 2019
+#Thu Jul 04 12:47:32 ICT 2019
 2.path=flutter_assets/images/icon_new/ahu.png
 14.set=ASSET
 107.baseType=DIRECTORY
