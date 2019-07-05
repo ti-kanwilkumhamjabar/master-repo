@@ -34,9 +34,10 @@ class VisaScreen extends StatelessWidget{
           child: GridView.count(
             crossAxisCount: 2,
             children: <Widget>[
-              ContainerIconVisa(imageName: "c_definisi"),
-              ContainerIconVisa(imageName: "c_prosedur"),
-              ContainerIconVisa(imageName: "c_aturan"),
+              ContainerIconVisa(imageName: "Visa_KDefinisi"),
+              ContainerIconVisa(imageName: "Visa_KProsedur"),
+              ContainerIconVisa(imageName: "Visa_TDefinisi"),
+              ContainerIconVisa(imageName: "Visa_TProsedur"),
               ContainerIconVisa(imageName: "data_perbandingan"),
 
             ],

@@ -19,14 +19,17 @@ class ContainerIconVisa extends StatelessWidget{
         onTap: (){
           Navigator.push(context, MaterialPageRoute(builder: (_){
 
-            if(this.imageName == "c_definisi"){
+            if(this.imageName == "Visa_KDefinisi"){
               return DetailVisa(data : dataVisa[0]);
             }
-            else if(this.imageName == "c_prosedur"){
+            else if(this.imageName == "Visa_KProsedur"){
               return DetailVisa(data : dataVisa[1]);
             }
-            else if(this.imageName == "c_aturan"){
+            else if(this.imageName == "Visa_TDefinisi"){
               return DetailVisa(data : dataVisa[2]);
+            }
+            else if(this.imageName == "Visa_TProsedur"){
+              return DetailVisa(data : dataVisa[3]);
             }
             else{
               return DataSample();

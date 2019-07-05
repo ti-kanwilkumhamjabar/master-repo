@@ -64,7 +64,7 @@ class _MainScreenState extends State<MainScreen> {
     Widget image_carousel = new Container(
       height: 150.0,
       child: Carousel(
-        boxFit: BoxFit.cover,
+        boxFit: BoxFit.contain,
         images: [
           AssetImage('images/image1.jpeg'),
           AssetImage('images/image2.jpeg'),
