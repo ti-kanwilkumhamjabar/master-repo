@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'SiEmil',
       theme: ThemeData(
-        backgroundColor: Colors.tealAccent,
+        backgroundColor: Colors.white,
       ),
       home:  new SplashScreen(),
       routes: <String, WidgetBuilder>{ '/MainScreen': (BuildContext context) => new MainScreen()},
@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
 }
 
 class SplashScreen extends StatefulWidget {
+  static const String id = 'splash_screen';
   @override
   _SplashScreenState createState() => new _SplashScreenState();
 }

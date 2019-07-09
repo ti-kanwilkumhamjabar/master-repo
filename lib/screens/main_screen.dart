@@ -4,6 +4,7 @@ import 'package:master_repo/grid/horizontal_list.dart';
 import 'package:master_repo/grid/grid_view.dart';
 
 class MainScreen extends StatefulWidget {
+  static const String id = 'main_screen';
   MainScreen({Key key, this.title}) : super(key: key);
   final String title;
   @override
