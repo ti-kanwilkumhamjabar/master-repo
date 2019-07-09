@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:master_repo/form/sample/sample_form_screen.dart';
 import 'package:master_repo/screens/bantuan_hukum/bantuan_hukum_screen.dart';
 import 'package:master_repo/screens/barang_sitaan/barang_sitaan_screen.dart';
-import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/desain_industri/desain_industri_screen.dart';
 import 'package:master_repo/screens/fidusia/fidusia_screen.dart';
 import 'package:master_repo/screens/hak_cipta/hak_cipta_screen.dart';

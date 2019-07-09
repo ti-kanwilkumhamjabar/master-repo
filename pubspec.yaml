@@ -23,6 +23,14 @@ dependencies:
   flutter_lorem: ^1.1.0
   flutter:
     sdk: flutter
+  flutter_colorpicker: ^0.2.1
+  flutter_masked_text: ^0.7.0
+  intl: ^0.15.6
+  meta: ^1.1.6
+  auto_size_text: ^1.0.0
+  flutter_cupertino_settings:
+    git:
+      url: https://github.com/AppleEducate/flutter_cupertino_settings
 
 
 
