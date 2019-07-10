@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:master_repo/firebase/listview_note.dart';
 import 'package:master_repo/form/sample/sample_form_screen.dart';
 import 'package:master_repo/screens/bantuan_hukum/bantuan_hukum_screen.dart';
 import 'package:master_repo/screens/barang_sitaan/barang_sitaan_screen.dart';
@@ -208,7 +209,7 @@ class SingleGrid extends StatelessWidget {
                   return TahananScreen();
                 }
                 else{
-                  return MainLogin();
+                  return ListViewNote();
                 }
               }));
             },

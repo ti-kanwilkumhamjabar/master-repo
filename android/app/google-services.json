@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244513553740",
+    "firebase_url": "https://siemil.firebaseio.com",
+    "project_id": "siemil",
+    "storage_bucket": "siemil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244513553740:android:89308cb4ba1b2bd5",
+        "android_client_info": {
+          "package_name": "com.kanwilkumhamjabar.master_repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244513553740-hfpc7j6fca7g3erq1mmg17ua7k04613l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0K6yXSFtTFBd5KsE-lL8Z7ZIkDWU-1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244513553740-hfpc7j6fca7g3erq1mmg17ua7k04613l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
