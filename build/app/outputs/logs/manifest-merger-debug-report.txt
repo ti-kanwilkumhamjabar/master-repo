@@ -5,11 +5,17 @@ INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml:1:1
 INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml:1:1-33:12
 INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml:1:1-33:12
 MERGED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:video_player] F:\siEmil\master-repo\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_auth] F:\siEmil\master-repo\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:shared_preferences] F:\siEmil\master-repo\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
 MERGED from [:url_launcher] F:\siEmil\master-repo\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-14:12
 MERGED from [:firebase_database] F:\siEmil\master-repo\build\firebase_database\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\cfd9afd707366d4a242915de7f8bdd0d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.1.aar\ac27b4ca853c8d5ba595587338d5f9e9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.1.aar\448a2cb5af37aab55c68f5baf3273468\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.1.aar\faef5e4cf8aa8d34a29cd338379211a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.1.aar\1fc346b21e74b6a2e54c9b49f74d6234\AndroidManifest.xml:17:1-26:12
 MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:15:1-36:12
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-17.0.0.aar\94d9dfa4c76b5b0863325bac57aab1d7\AndroidManifest.xml:2:1-10:12
@@ -30,7 +36,6 @@ MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Bayu An
 MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\8ad82ae4ab65a79c7dfc4cd3e2de6d7d\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\16c8d39e123ec5e1af4a9dd1a2ef02cc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\944b142ef11ba8ab2c4c7fd07090cb38\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\32837888dbbd3e9364b04abb3a3f8d20\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\aebaf63fb6230f4b74f83e3e84676cdc\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\62d4ed69f97a57676507c15fd1e3d0b9\AndroidManifest.xml:17:1-22:12
@@ -51,6 +56,7 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:
 MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\b8ef2ef9d7d11c56513c5cdd162353d8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\8df6ca0b8d578284b4a282512919261d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\e2fd99f5105347f892a7eb2e56bc3447\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\5d65d7d7c297f96015c9d3a4ac4afe84\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\46d1b3e4ea81be401eeff2062fc070f1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\dede78c125e5379b15fdaa6a29b1ef90\AndroidManifest.xml:17:1-22:12
@@ -186,8 +192,12 @@ uses-sdk
 INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml
 INJECTED from F:\siEmil\master-repo\android\app\src\main\AndroidManifest.xml
+MERGED from [:video_player] F:\siEmil\master-repo\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] F:\siEmil\master-repo\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_auth] F:\siEmil\master-repo\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_auth] F:\siEmil\master-repo\build\firebase_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\siEmil\master-repo\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\siEmil\master-repo\build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] F:\siEmil\master-repo\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] F:\siEmil\master-repo\build\url_launcher\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_database] F:\siEmil\master-repo\build\firebase_database\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
@@ -196,6 +206,14 @@ MERGED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermedi
 MERGED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\cfd9afd707366d4a242915de7f8bdd0d\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\cfd9afd707366d4a242915de7f8bdd0d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.1.aar\ac27b4ca853c8d5ba595587338d5f9e9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.1.aar\ac27b4ca853c8d5ba595587338d5f9e9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.1.aar\448a2cb5af37aab55c68f5baf3273468\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.1.aar\448a2cb5af37aab55c68f5baf3273468\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.1.aar\faef5e4cf8aa8d34a29cd338379211a1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.1.aar\faef5e4cf8aa8d34a29cd338379211a1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.1.aar\1fc346b21e74b6a2e54c9b49f74d6234\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.1.aar\1fc346b21e74b6a2e54c9b49f74d6234\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:19:5-21:41
@@ -236,8 +254,6 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\User
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\16c8d39e123ec5e1af4a9dd1a2ef02cc\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\944b142ef11ba8ab2c4c7fd07090cb38\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\944b142ef11ba8ab2c4c7fd07090cb38\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\32837888dbbd3e9364b04abb3a3f8d20\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\32837888dbbd3e9364b04abb3a3f8d20\AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\aebaf63fb6230f4b74f83e3e84676cdc\AndroidManifest.xml:20:5-44
@@ -278,6 +294,8 @@ MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Bayu Angga 
 MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\8df6ca0b8d578284b4a282512919261d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\e2fd99f5105347f892a7eb2e56bc3447\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\e2fd99f5105347f892a7eb2e56bc3447\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\8ae245ccdf9b9634bd801bc20e4cfa40\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\5d65d7d7c297f96015c9d3a4ac4afe84\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\5d65d7d7c297f96015c9d3a4ac4afe84\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\46d1b3e4ea81be401eeff2062fc070f1\AndroidManifest.xml:20:5-44
@@ -338,6 +356,22 @@ ADDED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermedia
 		ADDED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] F:\siEmil\master-repo\build\firebase_core\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.1.aar\1fc346b21e74b6a2e54c9b49f74d6234\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.5.0.aar\0bd24640d315b95c1464d83497790d01\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.5.0.aar\0bd24640d315b95c1464d83497790d01\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\6bdfb5eaccff2db85433ab7ec76d78a3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\6bdfb5eaccff2db85433ab7ec76d78a3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-16.5.0.aar\080700b73f7956d3b3be995183507fa1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-16.5.0.aar\080700b73f7956d3b3be995183507fa1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-impl-16.5.0.aar\f2fab665942ca16131a29a4f508c88ab\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-impl-16.5.0.aar\f2fab665942ca16131a29a4f508c88ab\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.5.0.aar\507300e0fd1ccd7689928a46d50d64f6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.5.0.aar\507300e0fd1ccd7689928a46d50d64f6\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.1] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.1.aar\1fc346b21e74b6a2e54c9b49f74d6234\AndroidManifest.xml:24:22-76
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -360,20 +394,6 @@ ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwigun
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:38:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-17.0.0.aar\fb85387554c596d208b53c91df62bc61\AndroidManifest.xml:37:17-109
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.5.0.aar\0bd24640d315b95c1464d83497790d01\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.5.0.aar\0bd24640d315b95c1464d83497790d01\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\6bdfb5eaccff2db85433ab7ec76d78a3\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.1.2.aar\6bdfb5eaccff2db85433ab7ec76d78a3\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-16.5.0.aar\080700b73f7956d3b3be995183507fa1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-16.5.0.aar\080700b73f7956d3b3be995183507fa1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-impl-16.5.0.aar\f2fab665942ca16131a29a4f508c88ab\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-impl-16.5.0.aar\f2fab665942ca16131a29a4f508c88ab\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.5.0.aar\507300e0fd1ccd7689928a46d50d64f6\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.5.0.aar\507300e0fd1ccd7689928a46d50d64f6\AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:25:22-76
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
 ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Bayu Angga Dwiguna\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-17.0.0.aar\83f72eafc72a6f093b2f534415aad7b5\AndroidManifest.xml:30:13-32:85
 	android:value

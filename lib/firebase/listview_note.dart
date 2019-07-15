@@ -37,10 +37,10 @@ class _ListViewNoteState extends State<ListViewNote> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'grokonez Firebase DB Demo',
+      title: 'FireBase Sample',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('grokonez Firebase DB Demo'),
+          title: Text('Firebase Sample'),
           centerTitle: true,
           backgroundColor: Colors.blue,
         ),
@@ -82,7 +82,7 @@ class _ListViewNoteState extends State<ListViewNote> {
                             ),
                           ),
                           IconButton(
-                              icon: const Icon(Icons.remove_circle_outline),
+                              icon: const Icon(Icons.delete_sweep),
                               onPressed: () => _deleteNote(context, items[position], position)),
                         ],
                       ),

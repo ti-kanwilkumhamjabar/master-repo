@@ -16,7 +16,7 @@ class CardSettingsParagraph extends CardSettingsText {
     String initialValue,
     Icon icon,
     Widget requiredIndicator,
-    int maxLength: 250,
+    int maxLength: 500,
     int numberOfLines: 7,
     bool contentOnNewLine: true,
     bool visible: true,

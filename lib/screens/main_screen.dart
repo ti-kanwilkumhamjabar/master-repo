@@ -63,17 +63,15 @@ class _MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
     Widget image_carousel = new Container(
-      height: 150.0,
+      height: 250.0,
       child: Carousel(
         boxFit: BoxFit.contain,
         images: [
-          AssetImage('images/image1.jpeg'),
-          AssetImage('images/image2.jpeg'),
-          AssetImage('images/image3.jpeg')
+          AssetImage('images/narapidana.gif'),
+          AssetImage('images/izintinggal.gif')
         ],
-        autoplay: true,
-        animationCurve: Curves.fastOutSlowIn,
-        animationDuration: Duration(milliseconds: 1500),
+        autoplay: false,
+        animationDuration: Duration(seconds: 11),
         dotSize: 4.0,
         indicatorBgPadding: 4.0,
       ),
@@ -85,9 +83,12 @@ class _MainScreenState extends State<MainScreen> {
         body: ListView(
           children: <Widget>[
             image_carousel,
-            Padding(padding: EdgeInsets.all(6.0),child: Text('Categories'),),
-            HorizontalList(),
-            Padding(padding: EdgeInsets.all(6.0),child: Text('ALL'),),
+            Padding(padding: EdgeInsets.all(6.0),
+              child: Text(
+                  'MENU',
+                  textAlign: TextAlign.center,style: TextStyle(color: Colors.black, fontSize: 18.0, decorationThickness: 10)
+              ),
+            ),
             Container(
               height: 320.0,
               child: BodyGrid(),
