@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_pro/carousel_pro.dart';
-import 'package:master_repo/grid/horizontal_list.dart';
 import 'package:master_repo/grid/grid_view.dart';
 
 class MainScreen extends StatefulWidget {
@@ -70,7 +69,8 @@ class _MainScreenState extends State<MainScreen> {
           AssetImage('images/narapidana.gif'),
           AssetImage('images/izintinggal.gif')
         ],
-        autoplay: false,
+        autoplay: true,
+        autoplayDuration: Duration(seconds: 11),
         animationDuration: Duration(seconds: 11),
         dotSize: 4.0,
         indicatorBgPadding: 4.0,

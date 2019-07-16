@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_hak_paten.dart';
+import 'package:master_repo/data/hak_paten_data.dart';
+import 'package:master_repo/screens/hak_paten/detail_hak_paten.dart';
 import 'package:master_repo/screens/hak_paten/detail_paten.dart';
 import 'package:master_repo/screens/data_sample.dart';
 
@@ -7,6 +9,7 @@ class ContainerIconHakPaten extends StatelessWidget {
 
   final String imageName;
   final Function onPressed;
+  HakPatenData hakPatenData = new HakPatenData(definisiHakPaten,pengajuanHakPaten,aturanUndangUndangHakPaten);
 
   ContainerIconHakPaten({
     @required this.imageName, this.onPressed
@@ -21,13 +24,13 @@ class ContainerIconHakPaten extends StatelessWidget {
           Navigator.push(context, MaterialPageRoute(builder: (_){
 
             if(this.imageName == "c_definisi"){
-              return DetailHakPaten(data : dataHakPaten[0]);
+              return DetailPaten(title: 'Definisi',konten : hakPatenData);
             }
             else if(this.imageName == "c_prosedur"){
-              return DetailHakPaten(data : dataHakPaten[1]);
+              return DetailPaten(title: 'Pengajuan',konten : hakPatenData);
             }
             else if(this.imageName == "c_aturan"){
-              return DetailHakPaten(data : dataHakPaten[2]);
+              return DetailPaten(title: 'Aturan',konten : hakPatenData);
             }
             else{
               return DataSample();

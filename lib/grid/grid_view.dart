@@ -19,6 +19,7 @@ import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora/pora_screen.dart';
 import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
+import 'package:master_repo/timeline/sample_timeline/main_timeline.dart';
 
 class BodyGrid extends StatefulWidget {
   @override
@@ -209,7 +210,7 @@ class SingleGrid extends StatelessWidget {
                   return TahananScreen();
                 }
                 else{
-                  return HakPatenDefinisiForm();
+                  return MainTimeline();
                 }
               }));
             },
