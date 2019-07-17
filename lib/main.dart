@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return new Scaffold(
       backgroundColor: Colors.teal,
       body: new Center(
-        child: new Image.asset('iconpop/pegawai1.png'),
+        child: new Image.asset('images/intro_screen.png'),
       ),
     );
   }

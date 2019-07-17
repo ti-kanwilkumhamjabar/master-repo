@@ -45,8 +45,7 @@ class DetailHakCipta extends StatelessWidget{
                   '\n${data.title}\n',
                   style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
                 ),
-                Text('${data.description}', textAlign: TextAlign.justify,
-                  style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
+                Image.asset("images/hak_cipta_pengajuan.png")
               ],
             ),
           ),

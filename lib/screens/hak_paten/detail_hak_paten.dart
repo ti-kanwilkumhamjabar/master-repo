@@ -33,11 +33,29 @@ class DetailPaten extends StatelessWidget {
             ),
           ];
         },
-        body: Center(
-            child: timelineModel(TimelinePosition.Left, title)
-        ),
+        body: generateBody()
       ),
     );
+  }
+  generateBody(){
+    if(title == "Definisi" || title == "Aturan"){
+      return Center(
+        child: timelineModel(TimelinePosition.Left, title)
+      );
+    }
+    else{
+      return SingleChildScrollView(
+        padding: const EdgeInsets.all(16.0),
+        child: ConstrainedBox(
+          constraints: BoxConstraints(),
+          child: Column(
+            children: <Widget>[
+              Image.asset("images/hak_paten_pengajuan.png")
+            ],
+          ),
+        ),
+      );
+    }
   }
 
   lengtNeeded(String judul){
@@ -68,6 +86,7 @@ class DetailPaten extends StatelessWidget {
       final listKonten = konten.listDefinisiHakPaten[i];
       return TimelineModel(
           Card(
+            color: Colors.blue[100],
             margin: EdgeInsets.symmetric(vertical: 8.0),
             shape:
             RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
@@ -107,6 +126,7 @@ class DetailPaten extends StatelessWidget {
       final listKonten = konten.listAturanUndangUndangHakPaten[i];
       return TimelineModel(
           Card(
+            color: Colors.white70,
             margin: EdgeInsets.symmetric(vertical: 8.0),
             shape:
             RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
@@ -145,6 +165,7 @@ class DetailPaten extends StatelessWidget {
       final listKonten = konten.listPengajuanHakPaten[i];
       return TimelineModel(
           Card(
+            color: Colors.white70,
             margin: EdgeInsets.symmetric(vertical: 8.0),
             shape:
             RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),

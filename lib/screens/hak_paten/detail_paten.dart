@@ -45,8 +45,7 @@ class DetailHakPaten extends StatelessWidget{
                     '\n${data.title}\n',
                     style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
                 ),
-                Text('${data.description}', textAlign: TextAlign.justify,
-                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
+                Image.asset("images/hak_paten_pengajuan.png")
               ],
             ),
           ),
@@ -55,3 +54,22 @@ class DetailHakPaten extends StatelessWidget{
     );
   }
 }
+
+/*
+body: SingleChildScrollView(
+          padding: const EdgeInsets.all(16.0),
+          child: ConstrainedBox(
+            constraints: BoxConstraints(),
+            child: Column(
+              children: <Widget>[
+                Text(
+                    '\n${data.title}\n',
+                    style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
+                ),
+                Text('${data.description}', textAlign: TextAlign.justify,
+                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
+              ],
+            ),
+          ),
+        ),
+ */

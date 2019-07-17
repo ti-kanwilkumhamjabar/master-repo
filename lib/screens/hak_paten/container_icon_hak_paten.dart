@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/data/data_hak_paten.dart';
 import 'package:master_repo/data/hak_paten_data.dart';
 import 'package:master_repo/screens/hak_paten/detail_hak_paten.dart';
-import 'package:master_repo/screens/hak_paten/detail_paten.dart';
 import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconHakPaten extends StatelessWidget {
