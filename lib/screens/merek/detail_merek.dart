@@ -1,57 +1,206 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/data/data_merek.dart';
+import 'package:master_repo/data/merek_data.dart';
+import 'package:master_repo/timeline/timeline.dart';
+import 'package:master_repo/timeline/timeline_model.dart';
 
 class DetailMerek extends StatelessWidget{
-  final DataMerek data;
-  final Function onPressed;
-
-  DetailMerek({
-    @required this.data, this.onPressed
-  });
+  DetailMerek({Key key, this.title, this.konten}) : super(key: key);
+  final String title;
+  final MerekData konten;
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.white,
       body: NestedScrollView(
-        headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
-          return <Widget>[
-            SliverAppBar(
-              backgroundColor: Colors.white,
-              expandedHeight: 200.0,
-              floating: false,
-              pinned: true,
-              flexibleSpace: FlexibleSpaceBar(
-                  centerTitle: true,
-                  title: Text("MEREK",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
-                  background: Image.asset('images/image2.jpeg',
-                    fit: BoxFit.cover,
-                  )),
-            ),
-          ];
-        },
-        body: SingleChildScrollView(
-          padding: const EdgeInsets.all(16.0),
-          child: ConstrainedBox(
-            constraints: BoxConstraints(),
-            child: Column(
-              children: <Widget>[
-                Text(
-                    '\n${data.title}\n',
-                    style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
-                ),
-                Text('${data.description}', textAlign: TextAlign.justify,
-                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
-              ],
-            ),
-          ),
-        ),
+          headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
+            return <Widget>[
+              SliverAppBar(
+                backgroundColor: Colors.white,
+                expandedHeight: 200.0,
+                floating: false,
+                pinned: true,
+                flexibleSpace: FlexibleSpaceBar(
+                    centerTitle: true,
+                    title: Text(title,
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 16.0,
+                        )),
+                    background: Image.asset('images/image2.jpeg',
+                      fit: BoxFit.cover,
+                    )),
+              ),
+            ];
+          },
+          body: generateBody()
       ),
     );
   }
+
+  generateBody(){
+    if(title == "Definisi" || title == "Aturan"){
+      return Center(
+          child: timelineModel(TimelinePosition.Left, title)
+      );
+    }
+    else{
+      return SingleChildScrollView(
+        padding: const EdgeInsets.all(16.0),
+        child: ConstrainedBox(
+          constraints: BoxConstraints(),
+          child: Column(
+            children: <Widget>[
+              Image.asset("images/merek_pengajuan.png")
+            ],
+          ),
+        ),
+      );
+    }
+  }
+
+  lengtNeeded(String judul){
+    if(judul == 'Definisi'){
+      return konten.listDefinisiMerek.length;
+    }
+    else if(judul == 'Aturan'){
+      return konten.listAturanUndangUndangMerek.length;
+    }
+    else{
+      return konten.listPengajuanMerek.length;
+    }
+  }
+
+  timelineModel(TimelinePosition position, String judul) => Timeline.builder(
+      itemBuilder: centerTimelineBuilder,
+      itemCount: lengtNeeded(judul),
+      physics: position == TimelinePosition.Left
+          ? ClampingScrollPhysics()
+          : BouncingScrollPhysics(),
+      position: position);
+
+  TimelineModel centerTimelineBuilder(BuildContext context, int i) {
+
+    final textTheme = Theme.of(context).textTheme;
+
+    if(title == "Definisi"){
+      final listKonten = konten.listDefinisiMerek[i];
+      return TimelineModel(
+          Card(
+            color: Colors.blue[100],
+            margin: EdgeInsets.symmetric(vertical: 8.0),
+            shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
+            clipBehavior: Clip.antiAlias,
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  Text(
+                    listKonten.konten,
+                    style: textTheme.body1,
+                    textAlign: TextAlign.left,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          position:
+          i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
+          isFirst: i == 0,
+          isLast: i == lengtNeeded(title),
+          iconBackground: Colors.blue[100],
+          icon: Icon(Icons.description, color: Colors.white));
+
+    }
+    else if(title == "Aturan"){
+      final listKonten = konten.listAturanUndangUndangMerek[i];
+      return TimelineModel(
+          Card(
+            color: Colors.white70,
+            margin: EdgeInsets.symmetric(vertical: 8.0),
+            shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
+            clipBehavior: Clip.antiAlias,
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  Text(
+                    listKonten.konten,
+                    style: textTheme.body1,
+                    textAlign: TextAlign.left,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          position:
+          i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
+          isFirst: i == 0,
+          isLast: i == lengtNeeded(title),
+          iconBackground: Colors.cyan,
+          icon: Icon(Icons.book, color: Colors.white));
+    }
+    else{
+      final listKonten = konten.listPengajuanMerek[i];
+      return TimelineModel(
+          Card(
+            color: Colors.white70,
+            margin: EdgeInsets.symmetric(vertical: 8.0),
+            shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
+            clipBehavior: Clip.antiAlias,
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  Text(
+                    listKonten.konten,
+                    style: textTheme.body1,
+                    textAlign: TextAlign.left,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          position:
+          i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
+          isFirst: i == 0,
+          isLast: i == lengtNeeded(title),
+          iconBackground: Colors.cyan,
+          icon: Icon(Icons.add, color: Colors.white));
+    }
+  }
+
 }

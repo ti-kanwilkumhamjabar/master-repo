@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:master_repo/data/data_desain_industri.dart';
+import 'package:master_repo/data/desain_industri_data.dart';
 import 'package:master_repo/screens/desain_industri/detail_desain_industri.dart';
 import 'package:master_repo/screens/data_sample.dart';
 
 class ContainerIconDesainIndustri extends StatelessWidget{
   final String imageName;
   final Function onPressed;
+  DesainIndustriData desainIndustriData = new DesainIndustriData(definisiDesainIndustri, pengajuanDesainIndustri, aturanUndangUndangDesainIndustri);
 
   ContainerIconDesainIndustri({
     @required this.imageName, this.onPressed
@@ -20,13 +22,13 @@ class ContainerIconDesainIndustri extends StatelessWidget{
           Navigator.push(context, MaterialPageRoute(builder: (_){
 
             if(this.imageName == "c_definisi"){
-              return DetailDesainIndustri(data : dataDesainIndustri[0]);
+              return DetailDesainIndustri(title: 'Definisi',konten : desainIndustriData);
             }
             else if(this.imageName == "c_prosedur"){
-              return DetailDesainIndustri(data : dataDesainIndustri[1]);
+              return DetailDesainIndustri(title: 'Pengajuan',konten : desainIndustriData);
             }
             else if(this.imageName == "c_aturan"){
-              return DetailDesainIndustri(data : dataDesainIndustri[2]);
+              return DetailDesainIndustri(title: 'Aturan',konten : desainIndustriData);
             }
             else{
               return DataSample();

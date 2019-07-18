@@ -17,8 +17,6 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  video_player: ^0.8.0
-  shared_preferences: ^0.4.2
   firebase_auth: ^0.11.1+7
   firebase_database: ^3.0.4
   carousel_pro: ^1.0.0
@@ -63,7 +61,6 @@ flutter:
   assets:
     - images/
     - images/icon_new/
-    - images/icon_old/
     - iconpop/
 
   # An image asset can refer to one or more resolution-specific "variants", see

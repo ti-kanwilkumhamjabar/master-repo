@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/data/data_merek.dart';
+import 'package:master_repo/data/merek_data.dart';
 import 'package:master_repo/screens/data_sample.dart';
 import 'package:master_repo/screens/merek/detail_merek.dart';
 
@@ -7,6 +7,7 @@ class ContainerIconMerek extends StatelessWidget {
 
   final String imageName;
   final Function onPressed;
+  MerekData merekData = new MerekData(definisiMerek, pengajuanMerek, aturanUndangUndangMerek);
 
   ContainerIconMerek({
     @required this.imageName, this.onPressed
@@ -21,13 +22,13 @@ class ContainerIconMerek extends StatelessWidget {
           Navigator.push(context, MaterialPageRoute(builder: (_){
 
             if(this.imageName == "c_definisi"){
-              return DetailMerek(data : dataMerek[0]);
+              return DetailMerek(title: 'Definisi',konten : merekData);
             }
             else if(this.imageName == "c_prosedur"){
-              return DetailMerek(data : dataMerek[1]);
+              return DetailMerek(title: 'Pengajuan',konten : merekData);
             }
             else if(this.imageName == "c_aturan"){
-              return DetailMerek(data : dataMerek[2]);
+              return DetailMerek(title: 'Aturan',konten : merekData);
             }
             else{
               return DataSample();

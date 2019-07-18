@@ -118,7 +118,7 @@ class DetailPaten extends StatelessWidget {
           i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
           isFirst: i == 0,
           isLast: i == lengtNeeded(title),
-          iconBackground: Colors.cyan,
+          iconBackground: Colors.blue[100],
           icon: Icon(Icons.description, color: Colors.white));
 
     }

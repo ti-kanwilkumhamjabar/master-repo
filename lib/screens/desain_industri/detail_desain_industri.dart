@@ -1,13 +1,12 @@
-import 'package:master_repo/data/data_desain_industri.dart';
 import 'package:flutter/material.dart';
+import 'package:master_repo/data/desain_industri_data.dart';
+import 'package:master_repo/timeline/timeline.dart';
+import 'package:master_repo/timeline/timeline_model.dart';
 
 class DetailDesainIndustri extends StatelessWidget {
-  final DataDesainIndustri data;
-  final Function onPressed;
-
-  DetailDesainIndustri({
-    @required this.data, this.onPressed
-  });
+  DetailDesainIndustri({Key key, this.title, this.konten}) : super(key: key);
+  final String title;
+  final DesainIndustriData konten;
 
   @override
   Widget build(BuildContext context) {
@@ -35,23 +34,131 @@ class DetailDesainIndustri extends StatelessWidget {
             ),
           ];
         },
-        body: SingleChildScrollView(
-          padding: const EdgeInsets.all(16.0),
-          child: ConstrainedBox(
-            constraints: BoxConstraints(),
-            child: Column(
-              children: <Widget>[
-                Text(
-                    '\n${data.title}\n',
-                    style: TextStyle(color: Colors.black, fontSize: 25.0, decorationThickness: 5)
-                ),
-                Text('${data.description}', textAlign: TextAlign.justify,
-                    style: TextStyle(color: Colors.black, height: 1.5, fontSize: 14.0, fontWeight: FontWeight.w600)),
-              ],
-            ),
-          ),
-        ),
+        body: generateBody()
       ),
     );
+  }
+
+  generateBody(){
+    if(title == "Definisi" || title == "Aturan"){
+      return Center(
+          child: timelineModel(TimelinePosition.Left, title)
+      );
+    }
+    else{
+      return SingleChildScrollView(
+        padding: const EdgeInsets.all(16.0),
+        child: ConstrainedBox(
+          constraints: BoxConstraints(),
+          child: Column(
+            children: <Widget>[
+              Image.asset("images/desain_industri_pengajuan.png")
+            ],
+          ),
+        ),
+      );
+    }
+  }
+
+  lengtNeeded(String judul){
+    if(judul == 'Definisi'){
+      return konten.listDefinisiDesainIndustri.length;
+    }
+    else{
+      return konten.listAturanUndangUndangDesainIndustri.length;
+    }
+  }
+
+  timelineModel(TimelinePosition position, String judul) => Timeline.builder(
+      itemBuilder: centerTimelineBuilder,
+      itemCount: lengtNeeded(judul),
+      physics: position == TimelinePosition.Left
+          ? ClampingScrollPhysics()
+          : BouncingScrollPhysics(),
+      position: position);
+
+  TimelineModel centerTimelineBuilder(BuildContext context, int i) {
+
+    final textTheme = Theme.of(context).textTheme;
+
+    if(title == "Definisi"){
+      final listKonten = konten.listDefinisiDesainIndustri[i];
+      return TimelineModel(
+          Card(
+            color: Colors.blue[100],
+            margin: EdgeInsets.symmetric(vertical: 8.0),
+            shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
+            clipBehavior: Clip.antiAlias,
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  Text(
+                    listKonten.konten,
+                    style: textTheme.body1,
+                    textAlign: TextAlign.left,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          position:
+          i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
+          isFirst: i == 0,
+          isLast: i == lengtNeeded(title),
+          iconBackground: Colors.blue[100],
+          icon: Icon(Icons.description, color: Colors.white));
+
+    }
+    else{
+      final listKonten = konten.listAturanUndangUndangDesainIndustri[i];
+      return TimelineModel(
+          Card(
+            color: Colors.white70,
+            margin: EdgeInsets.symmetric(vertical: 8.0),
+            shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(8.0)),
+            clipBehavior: Clip.antiAlias,
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: <Widget>[
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                  Text(
+                    listKonten.konten,
+                    style: textTheme.body1,
+                    textAlign: TextAlign.left,
+                  ),
+                  const SizedBox(
+                    height: 8.0,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          position:
+          i % 2 == 0 ? TimelineItemPosition.right : TimelineItemPosition.left,
+          isFirst: i == 0,
+          isLast: i == lengtNeeded(title),
+          iconBackground: Colors.cyan,
+          icon: Icon(Icons.book, color: Colors.white));
+    }
   }
 }
