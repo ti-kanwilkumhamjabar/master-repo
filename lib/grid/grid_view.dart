@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:master_repo/firebase/listview_note.dart';
-import 'package:master_repo/form/sample/sample_form_screen.dart';
-import 'package:master_repo/listvieweffect/HomeListEffect.dart';
+import 'package:master_repo/firebase/firebase_main.dart';
 import 'package:master_repo/screens/bantuan_hukum/bantuan_hukum_screen.dart';
 import 'package:master_repo/screens/barang_sitaan/barang_sitaan_screen.dart';
 import 'package:master_repo/screens/desain_industri/desain_industri_screen.dart';
 import 'package:master_repo/screens/fidusia/fidusia_screen.dart';
 import 'package:master_repo/screens/hak_cipta/hak_cipta_screen.dart';
-import 'package:master_repo/screens/hak_paten/hak_paten_definisi_form.dart';
 import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
 import 'package:master_repo/screens/ham/ham_screen.dart';
 import 'package:master_repo/screens/izin_tinggal/izin_tinggal_screen.dart';
@@ -21,7 +18,6 @@ import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora/pora_screen.dart';
 import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
-import 'package:master_repo/timeline/sample_timeline/main_timeline.dart';
 
 class BodyGrid extends StatefulWidget {
   @override
@@ -212,7 +208,7 @@ class SingleGrid extends StatelessWidget {
                   return TahananScreen();
                 }
                 else{
-                  return LoginScreen();
+                  return FirebaseMain();
                 }
               }));
             },
