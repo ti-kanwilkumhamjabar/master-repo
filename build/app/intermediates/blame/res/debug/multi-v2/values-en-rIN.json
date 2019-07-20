@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\Tamu\\AndroidStudioProjects\\master-repo\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\Tamu\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\1b913b8b0c1bc498b4b9bb6710d58751\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
