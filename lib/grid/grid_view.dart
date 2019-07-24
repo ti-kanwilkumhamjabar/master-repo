@@ -17,7 +17,7 @@ import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora/pora_screen.dart';
 import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
-import 'package:master_repo/screens/login/login.dart';
+import 'package:master_repo/screens/login/welcome_screen.dart';
 
 class BodyGrid extends StatefulWidget {
   @override
@@ -208,7 +208,7 @@ class SingleGrid extends StatelessWidget {
                   return TahananScreen();
                 }
                 else if(prod_title == "Login"){
-                  return LoginScreen();
+                  return WelcomeScreen();
                 }
                 else{
                   return FirebaseMain();
