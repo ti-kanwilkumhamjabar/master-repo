@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-te\\values-te.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-te\\values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\944b142ef11ba8ab2c4c7fd07090cb38\\res\\values-te\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-te\\values-te.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-te\\values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\944b142ef11ba8ab2c4c7fd07090cb38\\res\\values-te\\values.xml",

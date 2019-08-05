@@ -67,7 +67,10 @@ class _MainScreenState extends State<MainScreen> {
         boxFit: BoxFit.contain,
         images: [
           AssetImage('images/narapidana.gif'),
-          AssetImage('images/izintinggal.gif')
+          AssetImage('images/izintinggal.gif'),
+          AssetImage('images/bapas.jpg'),
+          AssetImage('images/passport.jpg'),
+          AssetImage('images/tahanan.jpg')
         ],
         autoplay: true,
         autoplayDuration: Duration(seconds: 11),

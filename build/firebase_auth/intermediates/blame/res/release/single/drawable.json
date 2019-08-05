@@ -1,74 +1,74 @@
 [
     {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light.xml"
     }
 ]

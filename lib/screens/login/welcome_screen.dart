@@ -56,7 +56,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                   width: 10.0,
                   height: 100.0,
                 ),
-                Text('Siemil', style: TextStyle(fontSize: 40.0),),
+                Text('Siemil', style: TextStyle(fontSize: 30.0),),
                 SizedBox(
                   width: 20.0,
                   height: 100.0,
@@ -64,7 +64,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                 RotateAnimatedTextKit(
                   text:['PASTI', 'KANWIL', 'JABAR', 'JUARA'],
                   textStyle: TextStyle(
-                    fontSize: 40.0,
+                    fontSize: 30.0,
                   ),
                   textAlign: TextAlign.start,
                   alignment: AlignmentDirectional.topStart,

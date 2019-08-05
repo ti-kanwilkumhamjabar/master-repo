@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-vi\\values-vi.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.1.0.aar\\8579f1a6b2342f26451dfe1c8a7639f6\\res\\values-vi\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\values-vi\\values-vi.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\values-vi\\values-vi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.1.0.aar\\8579f1a6b2342f26451dfe1c8a7639f6\\res\\values-vi\\values.xml",

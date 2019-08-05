@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "F:\\siEmil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_action.xml"
     }
 ]

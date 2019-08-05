@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_core\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\values\\values.xml",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\firebase_core\\intermediates\\res\\merged\\release\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\values\\values.xml",

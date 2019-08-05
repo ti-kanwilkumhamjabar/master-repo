@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\siEmil\\master-repo\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "F:\\ProjectKanwil\\Siemil\\master-repo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "341",
+                        "startColumns": "4",
+                        "startOffsets": "20872",
+                        "endLines": "345",
+                        "endColumns": "12",
+                        "endOffsets": "21164"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\values\\values.xml",
                     "from": {
@@ -23,22 +42,20 @@
                     }
                 },
                 {
-                    "source": "F:\\siEmil\\master-repo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,300,382,486,589,709,799",
+                        "endColumns": "143,100,81,103,102,119,89,66",
+                        "endOffsets": "194,295,377,481,584,704,794,861"
                     },
                     "to": {
-                        "startLines": "341",
-                        "startColumns": "4",
-                        "startOffsets": "20872",
-                        "endLines": "345",
-                        "endColumns": "12",
-                        "endOffsets": "21164"
+                        "startLines": "332,333,334,335,336,337,338,339",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "19990,20134,20235,20317,20421,20524,20644,20734",
+                        "endColumns": "143,100,81,103,102,119,89,66",
+                        "endOffsets": "20129,20230,20312,20416,20519,20639,20729,20796"
                     }
                 },
                 {
@@ -92,23 +109,6 @@
                         "endLines": "3,4,5,6,7,8,9,10,255,274,314,315,316,317,318,319,320,321,323,324,325,326,327,328,329,330,331",
                         "endColumns": "89,79,89,89,79,80,79,79,20,20,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
                         "endOffsets": "251,331,421,511,591,672,752,832,14869,15286,17757,17938,18063,18170,18350,18473,18589,18692,19047,19152,19333,19458,19633,19781,19844,19906,19985"
-                    }
-                },
-                {
-                    "source": "F:\\siEmil\\master-repo\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,300,382,486,589,709,799",
-                        "endColumns": "143,100,81,103,102,119,89,66",
-                        "endOffsets": "194,295,377,481,584,704,794,861"
-                    },
-                    "to": {
-                        "startLines": "332,333,334,335,336,337,338,339",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "19990,20134,20235,20317,20421,20524,20644,20734",
-                        "endColumns": "143,100,81,103,102,119,89,66",
-                        "endOffsets": "20129,20230,20312,20416,20519,20639,20729,20796"
                     }
                 },
                 {
