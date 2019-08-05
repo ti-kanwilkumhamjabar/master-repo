@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_action.xml"
-    },
-    {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_launch_background.xml.flat",
         "source": "F:\\ProjectKanwil\\Siemil\\master-repo\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
