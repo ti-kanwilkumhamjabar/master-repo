@@ -17,11 +17,6 @@ class PoraScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("Pelaporan Orang Asing",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
                   background: Image.asset('images/image2.jpeg',
                     fit: BoxFit.cover,
                   )),
@@ -30,9 +25,9 @@ class PoraScreen extends StatelessWidget{
         },
         body: Container(
           color: Colors.white,
-          margin: EdgeInsets.all(5.0),
+          margin: EdgeInsets.all(1.0),
           child: GridView.count(
-            crossAxisCount: 2,
+            crossAxisCount: 1,
             children: <Widget>[
               ContainerIconPora(imageName: "PORA_Link")
             ],

@@ -17,12 +17,7 @@ class NotarisScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("NOTARIS",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/kenotariatan.jpeg',
                     fit: BoxFit.cover,
                   )),
             ),
@@ -30,9 +25,9 @@ class NotarisScreen extends StatelessWidget{
         },
         body: Container(
           color: Colors.white,
-          margin: EdgeInsets.all(5.0),
+          margin: EdgeInsets.all(1.0),
           child: GridView.count(
-            crossAxisCount: 2,
+            crossAxisCount: 4,
             children: <Widget>[
               ContainerIconNotaris(imageName: "c_definisi"),
               ContainerIconNotaris(imageName: "n_syarat"),

@@ -18,12 +18,7 @@ class IzinTinggalScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("IZIN TINGGAL",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/izintinggal.jpeg',
                     fit: BoxFit.cover,
                   )),
             ),
@@ -31,9 +26,9 @@ class IzinTinggalScreen extends StatelessWidget{
         },
         body: Container(
           color: Colors.white,
-          margin: EdgeInsets.all(5.0),
+          margin: EdgeInsets.all(1.0),
           child: GridView.count(
-            crossAxisCount: 2,
+            crossAxisCount: 4,
             children: <Widget>[
               ContainerIconIzinTinggal(imageName: "Izin_Kunjungan"),
               ContainerIconIzinTinggal(imageName: "c_prosedur"),

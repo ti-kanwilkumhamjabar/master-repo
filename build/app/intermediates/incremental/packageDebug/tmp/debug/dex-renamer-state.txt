@@ -1,8 +1,14 @@
-#Mon Aug 05 09:19:19 ICT 2019
+#Thu Aug 08 10:25:53 ICT 2019
 base.2=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\12
 base.1=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\15
 base.0=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\11
+renamed.22=classes23.dex
+renamed.21=classes22.dex
 renamed.20=classes21.dex
+path.22=classes.dex
+base.22=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\21
+path.21=classes.dex
+base.21=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\22
 path.20=classes2.dex
 base.20=F\:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\2
 path.9=classes.dex

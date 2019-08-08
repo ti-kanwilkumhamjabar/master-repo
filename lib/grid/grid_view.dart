@@ -9,6 +9,7 @@ import 'package:master_repo/screens/hak_paten/hak_paten_screen.dart';
 import 'package:master_repo/screens/ham/ham_screen.dart';
 import 'package:master_repo/screens/izin_tinggal/izin_tinggal_screen.dart';
 import 'package:master_repo/screens/klien_bapas/klien_bapas_screen.dart';
+import 'package:master_repo/screens/login/welcome_screen.dart';
 import 'package:master_repo/screens/merek/merek_screen.dart';
 import 'package:master_repo/screens/narapidana/narapidana_screen.dart';
 import 'package:master_repo/screens/notaris/notaris_screen.dart';
@@ -17,7 +18,6 @@ import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora/pora_screen.dart';
 import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
-import 'package:master_repo/screens/login/welcome_screen.dart';
 
 class BodyGrid extends StatefulWidget {
   @override

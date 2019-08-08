@@ -27,9 +27,9 @@ class ContainerIconBantuanHukum extends StatelessWidget{
           }));
         },
         child : Container(
-          padding: EdgeInsets.all(3.0),
-          height: 100.0,
-          margin: EdgeInsets.all(2.0),
+          padding: EdgeInsets.all(1.0),
+          height: 75.0,
+          margin: EdgeInsets.all(1.0),
           decoration: BoxDecoration(
               image: DecorationImage(
                   image: AssetImage('iconpop/$imageName.png'), fit: BoxFit.fitHeight),

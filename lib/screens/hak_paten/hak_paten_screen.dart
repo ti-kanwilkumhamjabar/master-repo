@@ -18,11 +18,6 @@ class HakPatenScreen extends StatelessWidget {
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("HAK PATEN",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
                   background: Image.asset('images/image2.jpeg',
                     fit: BoxFit.cover,
                   )),
@@ -33,7 +28,7 @@ class HakPatenScreen extends StatelessWidget {
           color: Colors.white,
           margin: EdgeInsets.all(5.0),
           child: GridView.count(
-            crossAxisCount: 2,
+            crossAxisCount: 4,
             children: <Widget>[
               ContainerIconHakPaten(imageName: "c_definisi"),
               ContainerIconHakPaten(imageName: "c_prosedur"),

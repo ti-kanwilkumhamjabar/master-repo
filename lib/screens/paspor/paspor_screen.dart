@@ -17,12 +17,7 @@ class PasporScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("PASPOR",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/passport.jpg',
                     fit: BoxFit.cover,
                   )),
             ),
@@ -30,9 +25,9 @@ class PasporScreen extends StatelessWidget{
         },
         body: Container(
           color: Colors.white,
-          margin: EdgeInsets.all(5.0),
+          margin: EdgeInsets.all(1.0),
           child: GridView.count(
-            crossAxisCount: 2,
+            crossAxisCount: 4,
             children: <Widget>[
               ContainerIconPaspor(imageName: "c_definisi"),
               ContainerIconPaspor(imageName: "c_prosedur"),

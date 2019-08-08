@@ -5,7 +5,7 @@ class KlienBapasScreen extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.white,
 
       body: NestedScrollView(
         headerSliverBuilder: (BuildContext context, bool innerBoxIsScrolled){
@@ -17,12 +17,7 @@ class KlienBapasScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  title: Text("Klien Bapas",
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16.0,
-                      )),
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/bapas.jpg',
                     fit: BoxFit.cover,
                   )),
             ),
@@ -30,7 +25,7 @@ class KlienBapasScreen extends StatelessWidget{
         },
         body: Container(
           color: Colors.white,
-          margin: EdgeInsets.all(5.0),
+          margin: EdgeInsets.all(1.0),
           child: GridView.count(
             crossAxisCount: 2,
             children: <Widget>[

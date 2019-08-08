@@ -1,0 +1,2 @@
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan-0.0.8\android\src\main\kotlin\com\apptreesoftware\barcodescan\BarcodeScannerActivity.kt
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan-0.0.8\android\src\main\kotlin\com\apptreesoftware\barcodescan\BarcodeScanPlugin.kt
