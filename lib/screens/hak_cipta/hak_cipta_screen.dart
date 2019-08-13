@@ -18,7 +18,7 @@ class HakCiptaScreen extends StatelessWidget {
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/hakcipta.jpeg',
+                  background: Image.asset('images/hakcipta.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

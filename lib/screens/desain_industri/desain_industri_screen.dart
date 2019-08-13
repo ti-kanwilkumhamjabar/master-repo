@@ -17,7 +17,7 @@ class DesainIndustriScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/desainindustri.jpeg',
+                  background: Image.asset('images/desainindustri.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

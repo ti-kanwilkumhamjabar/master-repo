@@ -17,7 +17,7 @@ class VisaScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/visa.jpeg',
+                  background: Image.asset('images/visa.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

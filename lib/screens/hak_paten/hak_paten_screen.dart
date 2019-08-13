@@ -18,7 +18,7 @@ class HakPatenScreen extends StatelessWidget {
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/hakpaten.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

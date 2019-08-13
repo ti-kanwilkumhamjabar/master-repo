@@ -16,6 +16,7 @@ import 'package:master_repo/screens/notaris/notaris_screen.dart';
 import 'package:master_repo/screens/paspor/paspor_screen.dart';
 import 'package:master_repo/screens/perpu/perundang_undangan_screen.dart';
 import 'package:master_repo/screens/pora/pora_screen.dart';
+import 'package:master_repo/screens/qr/qr_screen.dart';
 import 'package:master_repo/screens/tahanan/tahanan_screen.dart';
 import 'package:master_repo/screens/visa/visa_screen.dart';
 
@@ -116,6 +117,11 @@ class _BodyGridState extends State<BodyGrid> {
       "title":"Login",
       "picture":"images/icon_new/3.png",
       "description":""
+    },
+    {
+      "title":"Sample QR",
+      "picture":"images/iconqr.png",
+      "description":""
     }
   ];
 
@@ -211,7 +217,7 @@ class SingleGrid extends StatelessWidget {
                   return WelcomeScreen();
                 }
                 else{
-                  return FirebaseMain();
+                  return QrScreen();
                 }
               }));
             },

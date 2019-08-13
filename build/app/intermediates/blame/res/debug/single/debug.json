@@ -308,6 +308,10 @@
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\aebaf63fb6230f4b74f83e3e84676cdc\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\debug\\layout_activity_qr_read.xml.flat",
+        "source": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\qrcode_reader\\intermediates\\packaged_res\\debug\\layout\\activity_qr_read.xml"
+    },
+    {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\aebaf63fb6230f4b74f83e3e84676cdc\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },

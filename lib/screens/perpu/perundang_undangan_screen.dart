@@ -17,7 +17,7 @@ class PerundangUndanganScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/image2.jpeg',
+                  background: Image.asset('images/perundangundangan.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

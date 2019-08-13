@@ -17,7 +17,7 @@ class FidusiaScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/fidusia.jpeg',
+                  background: Image.asset('images/fidusia.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

@@ -17,7 +17,7 @@ class NotarisScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/kenotariatan.jpeg',
+                  background: Image.asset('images/kenotariatan.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

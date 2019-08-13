@@ -17,7 +17,7 @@ class BantuanHukumScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/bantuanhukum.jpeg',
+                  background: Image.asset('images/bantuanhukum.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

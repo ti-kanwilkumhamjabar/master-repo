@@ -17,7 +17,7 @@ class BarangSitaanScreen extends StatelessWidget {
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/barangsitaan.jpeg',
+                  background: Image.asset('images/barangsitaan.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

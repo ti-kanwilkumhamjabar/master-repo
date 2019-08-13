@@ -110,6 +110,7 @@ id action_divider
 id action_image
 id action_text
 id actions
+id activity_qr_read_reader
 id adjust_height
 id adjust_width
 id all
@@ -164,6 +165,7 @@ id wide
 integer cancel_button_image_alpha
 integer google_play_services_version
 integer status_bar_notification_info_maxnum
+layout activity_qr_read
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action

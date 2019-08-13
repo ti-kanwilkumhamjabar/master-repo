@@ -18,7 +18,7 @@ class IzinTinggalScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/izintinggal.jpeg',
+                  background: Image.asset('images/izintinggal.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

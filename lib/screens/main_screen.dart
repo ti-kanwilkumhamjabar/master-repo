@@ -66,12 +66,11 @@ class _MainScreenState extends State<MainScreen> {
       child: Carousel(
         boxFit: BoxFit.contain,
         images: [
-          AssetImage('images/narapidana.gif'),
-          AssetImage('images/izintinggal.gif')
+          AssetImage('images/animasibanner.gif')
         ],
         autoplay: true,
-        autoplayDuration: Duration(seconds: 11),
-        animationDuration: Duration(seconds: 11),
+        autoplayDuration: Duration(seconds: 40),
+        animationDuration: Duration(seconds: 40),
         dotSize: 4.0,
         indicatorBgPadding: 4.0,
       ),

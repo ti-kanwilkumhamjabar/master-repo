@@ -17,7 +17,7 @@ class NarapidanaScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/narapidana.jpeg',
+                  background: Image.asset('images/narapidana.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

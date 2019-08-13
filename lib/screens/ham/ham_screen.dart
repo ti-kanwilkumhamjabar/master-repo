@@ -17,7 +17,7 @@ class HamScreen extends StatelessWidget{
               pinned: true,
               flexibleSpace: FlexibleSpaceBar(
                   centerTitle: true,
-                  background: Image.asset('images/ham.jpeg',
+                  background: Image.asset('images/ham.jpg',
                     fit: BoxFit.cover,
                   )),
             ),

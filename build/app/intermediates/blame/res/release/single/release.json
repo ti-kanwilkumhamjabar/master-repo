@@ -212,6 +212,10 @@
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a91392d8cec64213dec8458506bf7fda\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
+        "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\layout_activity_qr_read.xml.flat",
+        "source": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\qrcode_reader\\intermediates\\packaged_res\\release\\layout\\activity_qr_read.xml"
+    },
+    {
         "merged": "F:\\ProjectKanwil\\Siemil\\master-repo\\build\\app\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
         "source": "C:\\Users\\Bayu Angga Dwiguna\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\de34b60ef5a912f27e1f49a482e46bfd\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
